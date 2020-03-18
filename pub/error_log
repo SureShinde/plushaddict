@@ -1,0 +1,41 @@
+[18-Jul-2018 06:27:37 UTC] PHP Fatal error:  Uncaught Magento\Framework\Exception\FileSystemException: The directory "/home/plushaddictco/public_html/generated/code" cannot be deleted Warning!rmdir(/home/plushaddictco/public_html/generated/code): Directory not empty in /home/plushaddictco/public_html/vendor/magento/framework/Filesystem/Driver/File.php:410
+Stack trace:
+#0 /home/plushaddictco/public_html/vendor/magento/framework/Filesystem/Directory/Write.php(174): Magento\Framework\Filesystem\Driver\File->deleteDirectory('/home/plushaddi...')
+#1 /home/plushaddictco/public_html/vendor/magento/framework/Code/GeneratedFiles.php(87): Magento\Framework\Filesystem\Directory\Write->delete('generated/code')
+#2 /home/plushaddictco/public_html/vendor/magento/framework/App/ObjectManagerFactory.php(110): Magento\Framework\Code\GeneratedFiles->cleanGeneratedFiles()
+#3 /home/plushaddictco/public_html/pub/errors/processorFactory.php(24): Magento\Framework\App\ObjectManagerFactory->create(Array)
+#4 /home/plushaddictco/public_html/pub/errors/404.php(10): Magento\Framewor in /home/plushaddictco/public_html/vendor/magento/framework/Filesystem/Driver/File.php on line 410
+[18-Jul-2018 07:51:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=1618 in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Statement/Pdo.php on line 228
+[18-Jul-2018 07:51:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php:128
+Stack trace:
+#0 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php(128): PDO->__construct('mysql:host=loca...', 'plushadd_newone', 'p8PSns6A3NQ86Nm...', Array)
+#1 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Mysql.php(111): Zend_Db_Adapter_Pdo_Abstract->_connect()
+#2 /home/plushaddictco/public_html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(398): Zend_Db_Adapter_Pdo_Mysql->_connect()
+#3 /home/plushaddictco/public_html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(545): Magento\Framework\DB\Adapter\Pdo\Mysql->_connect()
+#4 /home/plushaddictco/public_html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(580): Magento\Framework\DB\Adapter\Pdo\Mysql->_query('SELECT `store`....', Array)
+#5 /home/plushaddictco/public_html/vendor/ in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php on line 144
+[18-Jul-2018 07:51:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=1710 in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Statement/Pdo.php on line 228
+[18-Jul-2018 07:51:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php:128
+Stack trace:
+#0 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php(128): PDO->__construct('mysql:host=loca...', 'plushadd_newone', 'p8PSns6A3NQ86Nm...', Array)
+#1 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Mysql.php(111): Zend_Db_Adapter_Pdo_Abstract->_connect()
+#2 /home/plushaddictco/public_html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(398): Zend_Db_Adapter_Pdo_Mysql->_connect()
+#3 /home/plushaddictco/public_html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(545): Magento\Framework\DB\Adapter\Pdo\Mysql->_connect()
+#4 /home/plushaddictco/public_html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(580): Magento\Framework\DB\Adapter\Pdo\Mysql->_query('SELECT `store`....', Array)
+#5 /home/plushaddictco/public_html/vendor/ in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php on line 144
+[18-Jul-2018 07:58:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php:128
+Stack trace:
+#0 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php(128): PDO->__construct('mysql:host=loca...', 'plushadd_newone', 'p8PSns6A3NQ86Nm...', Array)
+#1 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Mysql.php(111): Zend_Db_Adapter_Pdo_Abstract->_connect()
+#2 /home/plushaddictco/public_html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(398): Zend_Db_Adapter_Pdo_Mysql->_connect()
+#3 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Abstract.php(460): Magento\Framework\DB\Adapter\Pdo\Mysql->_connect()
+#4 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT `main_ta...', Array)
+#5 /home/plushaddic in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php on line 144
+[18-Jul-2018 08:01:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php:128
+Stack trace:
+#0 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php(128): PDO->__construct('mysql:host=loca...', 'plushadd_newone', 'p8PSns6A3NQ86Nm...', Array)
+#1 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Mysql.php(111): Zend_Db_Adapter_Pdo_Abstract->_connect()
+#2 /home/plushaddictco/public_html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php(398): Zend_Db_Adapter_Pdo_Mysql->_connect()
+#3 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Abstract.php(460): Magento\Framework\DB\Adapter\Pdo\Mysql->_connect()
+#4 /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php(238): Zend_Db_Adapter_Abstract->query('SELECT `main_ta...', Array)
+#5 /home/plushaddic in /home/plushaddictco/public_html/vendor/magento/zendframework1/library/Zend/Db/Adapter/Pdo/Abstract.php on line 144

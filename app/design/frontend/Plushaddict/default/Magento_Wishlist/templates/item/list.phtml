@@ -1,0 +1,46 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<?php
+/** @var \Magento\Wishlist\Block\Customer\Wishlist\Items $block */
+$columns = $block->getColumns();
+?>
+
+<div class="products wrapper grid products-grid wishlist">
+    <?php $iterator = 1; ?>
+    <?php if (count($block->getItems())): ?>
+    <ol class="products list items product-items">
+        <?php foreach ($block->getItems() as $item): ?>
+        <?= /* @noEscape */ ($iterator++ == 1) ? '<li data-row="product-item" class="item product product-item" id="item_' . $block->escapeHtmlAttr($item->getId()) . '">' : '</li><li class="item product product-item" id="item_' . $block->escapeHtmlAttr($item->getId()) . '">' ?>
+            <div class="product-item-info" data-container="product-grid">
+               <?php $c=1;?>
+                <?php foreach ($columns as $column): ?>
+                    <?php if ($c==1): ?>
+                        <?php $column->setItem($item); echo $column->toHtml($item);?>
+                    <?php else: ?>
+                        <?php if ($c==2): ?> <div class="product details product-item-details"><?php endif; ?>
+                            <?php $column->setItem($item); echo $column->toHtml($item);?>
+                        <?php if ($c==count($columns)): ?> </div"> <?php endif; ?>
+                    <?php endif; ?>    
+                   <?php $c++;?> 
+                <?php endforeach; ?>
+            </div>
+        <?= ($iterator == count($block->getItems())+1) ? '</li>' : '' ?>
+        <?php endforeach; ?>
+    </ol>
+    <?php else: ?>
+        <div class="message info empty">
+            <span><?= $block->escapeHtml(__('This Wish List has no Items')) ?></span>
+        </div>
+    <?php endif; ?>
+</div>
+
+<?php foreach ($columns as $column): ?>
+    <?= $column->getAdditionalHtml() ?>
+<?php endforeach; ?>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+         <referenceContainer name="header.panel">
+            <container name="custom.header.right" label="Custom Header Panel Right" htmlTag="div" htmlClass="custom-header-right">
+            	<container name="custom.header.right.ul" htmlTag="ul" htmlClass="custom-header-ul">
+        			<!--<block class="Magento\Checkout\Block\Cart\Sidebar" name="minicart" template="Magento_Checkout::cart/minicart.phtml"/>-->
+        			<block class="Magento\Customer\Block\Account\Customer" name="customer" template="account/customer.phtml"  after="-"/>
+        			<block class="Magento\Directory\Block\Currency" name="custom.header.store.settings.currency" template="Magento_Directory::currency.phtml" after="customer"/>
+            	</container>
+	        </container>
+        </referenceContainer>
+        <referenceBlock name="currency" remove="true"/>
+    </body>
+</page>

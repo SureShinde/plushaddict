@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd"><Header><DocumentVersion>1.01</DocumentVersion><MerchantIdentifier>A1LTJSQQJZ70N2</MerchantIdentifier></Header><MessageType>Product</MessageType><PurgeAndReplace>false</PurgeAndReplace><Message><MessageID>1</MessageID><OperationType>Update</OperationType><Product><SKU>GUTERMANN_SEW_ALL_100_0</SKU><StandardProductID><Type>EAN</Type><Value>4008015016562</Value></StandardProductID><DescriptionData><Title>100m Gutermann Sew-all Thread 000 Black</Title><Brand>Gutermann</Brand><Description><![CDATA[<p>&nbsp;</p>
+<p style="text-align: center;"><img src="{{media url="wysiwyg/multi-buy2.png"}}" alt="" /><br /><strong><span style="font-size: large;">Buy 3 Gutterman Sew-all threads of the same size (any colour) and save 5%!</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;"><strong><span>Buy 10 Gutterman Sew-all threads of the same size <strong><span>&nbsp;(any colour)</span></strong>&nbsp;and save 10%!</span></strong></span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">Discount applied in your basket</span></strong></p>
+<p style="text-align: left;"><span style="font-size: large;"><br /></span></p>
+<p style="text-align: left;"><span style="font-size: large;">Gutermann Sew-all thread is the most reliable of machine threads. It may be used on natural, blended and synthetic fabrics which makes it extremely versatile.</span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p>&nbsp;</p>]]></Description><PackageWeight unitOfMeasure="KG">0.04</PackageWeight><ShippingWeight unitOfMeasure="KG">0.04</ShippingWeight><Manufacturer>Gutermann</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>2</MessageID><OperationType>Update</OperationType><Product><SKU>GUTERMANN_SEW_ALL_250_0</SKU><StandardProductID><Type>EAN</Type><Value>4008015157043</Value></StandardProductID><DescriptionData><Title>250m Gutermann Sew-all Thread 000 Black</Title><Brand>Gutermann</Brand><Description><![CDATA[<p>&nbsp;</p>
+<p style="text-align: center;"><img src="{{media url="wysiwyg/multi-buy2.png"}}" alt="" /><br /><strong><span style="font-size: large;">Buy 3 Gutterman Sew-all threads of the same size (any colour) and save 5%!</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;"><strong><span>Buy 10 Gutterman Sew-all threads of the same size <strong><span>&nbsp;(any colour)</span></strong>&nbsp;and save 10%!</span></strong></span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">Discount applied in your basket</span></strong></p>
+<p style="text-align: left;"><span style="font-size: large;"><br /></span></p>
+<p style="text-align: left;"><span style="font-size: large;">Gutermann Sew-all thread is the most reliable of machine threads. It may be used on natural, blended and synthetic fabrics which makes it extremely versatile.</span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p>&nbsp;</p>]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Gutermann</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>3</MessageID><OperationType>Update</OperationType><Product><SKU>GUTERMANN_SEW_ALL_500_0</SKU><StandardProductID><Type>EAN</Type><Value>4008015156343</Value></StandardProductID><DescriptionData><Title>500m Gutermann Sew-all Thread 000 Black</Title><Brand>Gutermann</Brand><Description><![CDATA[<p>&nbsp;</p>
+<p style="text-align: center;"><img src="{{media url="wysiwyg/multi-buy2.png"}}" alt="" /><br /><strong><span style="font-size: large;">Buy 3 Gutterman Sew-all threads of the same size (any colour) and save 5%!</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;"><strong><span>Buy 10 Gutterman Sew-all threads of the same size <strong><span>&nbsp;(any colour)</span></strong>&nbsp;and save 10%!</span></strong></span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">Discount applied in your basket</span></strong></p>
+<p style="text-align: left;"><span style="font-size: large;"><br /></span></p>
+<p style="text-align: left;"><span style="font-size: large;">Gutermann Sew-all thread is the most reliable of machine threads. It may be used on natural, blended and synthetic fabrics which makes it extremely versatile.</span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p>&nbsp;</p>]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Gutermann</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>4</MessageID><OperationType>Update</OperationType><Product><SKU>GUTERMANN_SEW_ALL_100_800</SKU><StandardProductID><Type>EAN</Type><Value>4008015024260</Value></StandardProductID><DescriptionData><Title>100m Gutermann Sew-all Thread 800 White</Title><Brand>Gutermann</Brand><Description><![CDATA[<p>&nbsp;</p>
+<p style="text-align: center;"><img src="{{media url="wysiwyg/multi-buy2.png"}}" alt="" /><br /><strong><span style="font-size: large;">Buy 3 Gutterman Sew-all threads of the same size (any colour) and save 5%!</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;"><strong><span>Buy 10 Gutterman Sew-all threads of the same size <strong><span>&nbsp;(any colour)</span></strong>&nbsp;and save 10%!</span></strong></span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">Discount applied in your basket</span></strong></p>
+<p style="text-align: left;"><span style="font-size: large;"><br /></span></p>
+<p style="text-align: left;"><span style="font-size: large;">Gutermann Sew-all thread is the most reliable of machine threads. It may be used on natural, blended and synthetic fabrics which makes it extremely versatile.</span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p>&nbsp;</p>]]></Description><PackageWeight unitOfMeasure="KG">0.04</PackageWeight><ShippingWeight unitOfMeasure="KG">0.04</ShippingWeight><Manufacturer>Gutermann</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>5</MessageID><OperationType>Update</OperationType><Product><SKU>GUTERMANN_SEW_ALL_500_800</SKU><StandardProductID><Type>EAN</Type><Value>4008015156923</Value></StandardProductID><DescriptionData><Title>500m Gutermann Sew-all Thread 800 White</Title><Brand>Gutermann</Brand><Description><![CDATA[<p>&nbsp;</p>
+<p style="text-align: center;"><img src="{{media url="wysiwyg/multi-buy2.png"}}" alt="" /><br /><strong><span style="font-size: large;">Buy 3 Gutterman Sew-all threads of the same size (any colour) and save 5%!</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;"><strong><span>Buy 10 Gutterman Sew-all threads of the same size <strong><span>&nbsp;(any colour)</span></strong>&nbsp;and save 10%!</span></strong></span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">Discount applied in your basket</span></strong></p>
+<p style="text-align: left;"><span style="font-size: large;"><br /></span></p>
+<p style="text-align: left;"><span style="font-size: large;">Gutermann Sew-all thread is the most reliable of machine threads. It may be used on natural, blended and synthetic fabrics which makes it extremely versatile.</span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p>&nbsp;</p>]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Gutermann</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>6</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_063K</SKU><StandardProductID><Type>UPC</Type><Value>077540620210</Value></StandardProductID><DescriptionData><Title>DMC Patch Tapestry Starter Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun starter kit for tapestry.  You can make yourself a 15cm square tapestry of a orange monster.  
+
+This kit contains: 
+> Printed Canvas 
+> DMC soft cotton thread 
+> Tapestry needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm square (6")
+
+DIFFICULTY: perfect for children, due to the sharp needle and the small parts it is not recommended for children under 3.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>7</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_1505</SKU><StandardProductID><Type>UPC</Type><Value>077540644018</Value></StandardProductID><DescriptionData><Title>DMC Hoop It Owls - Embroidery Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun embroidery kit.  You can make yourself a personalised embroidery loop.
+
+This kit contains: 
+> White flexible embroidery hoop - 15cm
+> Printed cotton poplin fabric x 2
+> 8cm square of handicraft felt
+> Carioca felt tip pen
+> Needle
+> DMC stranded cotton threads x 2
+> DMC Light Effects thread
+> DMC Colour Variation thread
+> Fillawant Gingham check ribbon 30cm
+> Instructions
+> Hints and tips with templates
+
+Designed for children 6+, it will make an ideal gift.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>8</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1365</SKU><StandardProductID><Type>UPC</Type><Value>077540551620</Value></StandardProductID><DescriptionData><Title>DMC Santa With Sleigh Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a 15cm x 15cm a lovely Christmas Scene.
+
+This kit contains: 
+> 14 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm x 15cm (6" x 6"),
+
+DIFFICULTY: Moderate]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>9</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1366</SKU><StandardProductID><Type>UPC</Type><Value>077540551637</Value></StandardProductID><DescriptionData><Title>DMC Snowman With Presents Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a 15cm x 15cm cheery snowman image with presents, a lovely Christmas Scene.
+
+This kit contains: 
+> 14 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm x 15cm (6" x 6"),
+
+DIFFICULTY: Moderate]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>10</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1440</SKU><StandardProductID><Type>UPC</Type><Value>077540619818</Value></StandardProductID><DescriptionData><Title>DMC Elegance Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a 25cm x 25cm classic image of Audrey Hepburn. 
+
+This kit contains: 
+> 14 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 25cm x 25cm (10" x 10"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>11</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1450</SKU><StandardProductID><Type>UPC</Type><Value>077540619979</Value></StandardProductID><DescriptionData><Title>DMC Summer Swift Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a 20cm x 20cm image featuring a Swift and flowers. 
+
+This kit contains: 
+> 16 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 20cm x 20cm (8" x 8"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>12</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1501</SKU><StandardProductID><Type>UPC</Type><Value>077540643974</Value></StandardProductID><DescriptionData><Title>DMC Hoop It Junior Cupcakes - Embroidery Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun embroidery kit.  You can make yourself a personalised embroidery loop.
+
+This kit contains: 
+> White flexible embroidery hoop - 13cm
+> Printed cotton poplin fabric
+> 8cm square of handicraft felt
+> Carioca felt tip pen
+> Needle
+> DMC stranded cotton threads x 3
+> DMC Colour Variation thread
+> Fillawant Gingham check ribbon 30cm
+> Instructions
+> Hints and tips with templates
+
+Designed for children 6+, it will make an ideal gift.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>13</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1504</SKU><StandardProductID><Type>UPC</Type><Value>077540644001</Value></StandardProductID><DescriptionData><Title>DMC Hoop It Strawberries - Embroidery Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun embroidery kit.  You can make yourself a personalised embroidery loop.
+
+This kit contains: 
+> White flexible embroidery hoop - 13cm
+> Printed cotton poplin fabric
+> 8cm square of handicraft felt
+> Carioca felt tip pen
+> Needle
+> DMC stranded cotton threads x 3
+> DMC Colour Variation thread
+> Fillawant Gingham check ribbon 30cm
+> Instructions
+> Hints and tips with templates
+
+Designed for children 6+, it will make an ideal gift.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>14</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BL1042_64</SKU><StandardProductID><Type>UPC</Type><Value>077540600564</Value></StandardProductID><DescriptionData><Title>DMC The Snowman Flying Past Big Ben Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a festive cross stitch kit.  You can make yourself a 10cm x 20cm image featuring The Snowman 
+
+This kit contains: 
+> Iridescent Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 18cm x 13cm (7" x 5"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>15</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BL1043_64</SKU><StandardProductID><Type>UPC</Type><Value>077540600571</Value></StandardProductID><DescriptionData><Title>DMC The Snowman &amp; Snowdog - Celebration Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a festive cross stitch kit.  You can make yourself a 10cm x 20cm image featuring The Snowman 
+
+This kit contains: 
+> Iridescent Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 18cm x 13cm (7" x 5"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>16</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BL1044_64</SKU><StandardProductID><Type>UPC</Type><Value>077540600588</Value></StandardProductID><DescriptionData><Title>DMC The Snowman &amp; Snow Dog - Group Hug Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a festive cross stitch kit.  You can make yourself a 10cm x 20cm image featuring The Snowman 
+
+This kit contains: 
+> Iridescent Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 20cm x 10cm (4" x 8"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>17</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BOOFIE</SKU><StandardProductID><Type>UPC</Type><Value>077540391912</Value></StandardProductID><DescriptionData><Title>DMC Boofle And Friends At Christmas Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a festive cross stitch kit.  You can make yourself a 30cm x 20cm image featuring Boofle, Roofle, Rosy, Purly and Dinky at Christmas 
+
+This kit contains: 
+> I14 count white aida fabric 
+> DMC cotton threads
+> Cross stitch needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 20cm x 30cm (8" x 12"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>18</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BOOKMARK_SNOWDOG</SKU><StandardProductID><Type>UPC</Type><Value>077540600595</Value></StandardProductID><DescriptionData><Title>DMC The Snowman Snowdog Bookmark Cross Stitch Kit</Title><Description><![CDATA[Embroider this wonderful bookmark from the film "The Snowman"
+
+This counted cross-stitch kit contains: 
+> 16-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 2" x 6.5" (5 x 17cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>19</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BOOKMARK_SNOWMAN</SKU><StandardProductID><Type>UPC</Type><Value>077540442287</Value></StandardProductID><DescriptionData><Title>DMC The Snowman Bookmark Cross Stitch Kit</Title><Description><![CDATA[Embroider this wonderful bookmark from the film "The Snowman"
+
+This counted cross-stitch kit contains: 
+> 16-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 2" x 6.5" (5 x 17cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>20</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_C050K</SKU><StandardProductID><Type>UPC</Type><Value>077540392230</Value></StandardProductID><DescriptionData><Title>DMC Campervan Tapestry Starter Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun starter kit for tapestry.  You can make yourself a 15cm square tapestry of a VW camper van.  
+
+This kit contains: 
+> Printed Canvas 
+> DMC soft cotton thread 
+> Tapestry needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm square (6")
+
+DIFFICULTY: perfect for children, due to the sharp needle and the small parts it is not recommended for children under 3.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>21</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_C062K</SKU><StandardProductID><Type>UPC</Type><Value>077540620203</Value></StandardProductID><DescriptionData><Title>DMC Spike Tapestry Starter Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun starter kit for tapestry.  You can make yourself a 15cm square tapestry of a purple monster with spikes on his head.  
+
+This kit contains: 
+> Printed Canvas 
+> DMC soft cotton thread 
+> Tapestry needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm square (6")
+
+DIFFICULTY: perfect for children, due to the sharp needle and the small parts it is not recommended for children under 3.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>22</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_CK036</SKU><StandardProductID><Type>UPC</Type><Value>077540309054</Value></StandardProductID><DescriptionData><Title>DMC Cupcake Tapestry Starter Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun starter kit for tapestry.  You can make yourself a 15cm square tapestry of a yummy cupcake.
+
+This kit contains: 
+> Printed Canvas 
+> DMC soft cotton thread 
+> Tapestry needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm square (6")
+
+DIFFICULTY: perfect for children, due to the sharp needle and the small parts it is not recommended for children under 3.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>23</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_DREAM</SKU><StandardProductID><Type>UPC</Type><Value>077540620029</Value></StandardProductID><DescriptionData><Title>DMC Dream Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a DREAM banner measuring 30cm x 13cm 
+
+This kit contains: 
+> 14 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 30cm x 13cm (12" x 5"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>24</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_ELF</SKU><StandardProductID><Type>UPC</Type><Value>077540640324</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Elf Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful cute Elf
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>25</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_PENGUIN</SKU><StandardProductID><Type>UPC</Type><Value>077540640355</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Penguin Cross Stitch Kit</Title><Description><![CDATA[Embroider this colourful cute Penguin
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>26</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_ROBIN</SKU><StandardProductID><Type>UPC</Type><Value>077540640362</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Robin Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful cute Robin
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>27</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_RUDOLPH</SKU><StandardProductID><Type>UPC</Type><Value>077540640379</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Rudolph Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful cute Rudolph
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>28</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_SANTA</SKU><StandardProductID><Type>UPC</Type><Value>077540640386</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Santa Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful traditional Santa
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>29</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_SNOWMAN</SKU><StandardProductID><Type>UPC</Type><Value>077540640393</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Character Snowman Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful cute Snowman
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>30</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_MINI_GINGER</SKU><StandardProductID><Type>UPC</Type><Value>077540640331</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Gingerbread Man Cross Stitch Kit</Title><Description><![CDATA[Embroider this colourful cute Gingerbread Man
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x 3" (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>31</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_MINI_POLAR_BEAR</SKU><StandardProductID><Type>UPC</Type><Value>077540640348</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Polar Bear Cross Stitch Kit</Title><Description><![CDATA[Embroider this colourful cute Polar Bear
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x 3" (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message></AmazonEnvelope>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd"><Header><DocumentVersion>1.01</DocumentVersion><MerchantIdentifier>A1LTJSQQJZ70N2</MerchantIdentifier></Header><MessageType>Product</MessageType><PurgeAndReplace>false</PurgeAndReplace><Message><MessageID>1</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0067</SKU><StandardProductID><Type>EAN</Type><Value>0077540187409</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 67 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>2</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0090</SKU><StandardProductID><Type>EAN</Type><Value>0077540050468</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 90 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>3</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0092</SKU><StandardProductID><Type>EAN</Type><Value>0077540050482</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 92 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>4</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0093</SKU><StandardProductID><Type>EAN</Type><Value>0077540187416</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 93 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>5</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0094</SKU><StandardProductID><Type>EAN</Type><Value>0077540050505</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 94 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>6</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0554</SKU><StandardProductID><Type>EAN</Type><Value>0077540051595</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 554 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>7</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0562</SKU><StandardProductID><Type>EAN</Type><Value>0077540051618</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 562 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>8</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0581</SKU><StandardProductID><Type>EAN</Type><Value>0077540051656</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 581 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>9</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0597</SKU><StandardProductID><Type>EAN</Type><Value>0077540051663</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 597 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>10</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0598</SKU><StandardProductID><Type>EAN</Type><Value>0077540051670</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 598 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>11</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0603</SKU><StandardProductID><Type>EAN</Type><Value>0077540051717</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 603 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>12</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0610</SKU><StandardProductID><Type>EAN</Type><Value>0077540051762</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 610 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>13</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0612</SKU><StandardProductID><Type>EAN</Type><Value>0077540051786</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 612 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>14</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0613</SKU><StandardProductID><Type>EAN</Type><Value>0077540051793</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 613 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>15</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0632</SKU><StandardProductID><Type>EAN</Type><Value>0077540051809</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 632 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>16</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0642</SKU><StandardProductID><Type>EAN</Type><Value>0077540051823</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 642 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>17</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0644</SKU><StandardProductID><Type>EAN</Type><Value>0077540051830</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 644 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>18</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0677</SKU><StandardProductID><Type>EAN</Type><Value>0077540051908</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 677 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>19</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0699</SKU><StandardProductID><Type>EAN</Type><Value>0077540051922</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 699 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>20</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0700</SKU><StandardProductID><Type>EAN</Type><Value>0077540051939</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 700 For Embroidery &amp;amp; Cross Stich</Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>21</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0834</SKU><StandardProductID><Type>EAN</Type><Value>0077540052684</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 834 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>22</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0838</SKU><StandardProductID><Type>EAN</Type><Value>0077540052691</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 838 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>23</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0839</SKU><StandardProductID><Type>EAN</Type><Value>0077540052707</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 839 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>24</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0844</SKU><StandardProductID><Type>EAN</Type><Value>0077540052745</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 844 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>25</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0869</SKU><StandardProductID><Type>EAN</Type><Value>0077540052752</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 869 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>26</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0890</SKU><StandardProductID><Type>EAN</Type><Value>0077540052769</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 890 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>27</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0891</SKU><StandardProductID><Type>EAN</Type><Value>0077540052776</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 891 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>28</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0892</SKU><StandardProductID><Type>EAN</Type><Value>0077540052783</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 892 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>29</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0893</SKU><StandardProductID><Type>EAN</Type><Value>0077540052790</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 893 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>30</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0894</SKU><StandardProductID><Type>EAN</Type><Value>0077540052806</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 894 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>31</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0895</SKU><StandardProductID><Type>EAN</Type><Value>0077540052813</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 895 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>32</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0898</SKU><StandardProductID><Type>EAN</Type><Value>0077540052820</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 898 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>33</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0899</SKU><StandardProductID><Type>EAN</Type><Value>0077540052837</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 899 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>34</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0900</SKU><StandardProductID><Type>EAN</Type><Value>0077540052844</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 900 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>35</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_STRANDED_0902</SKU><StandardProductID><Type>EAN</Type><Value>0077540052851</Value></StandardProductID><DescriptionData><Title>DMC Stranded Cotton Thread Colour 902 For Embroidery &amp; Cross Stich </Title><Brand>DMC</Brand><PackageWeight unitOfMeasure="KG">0.03</PackageWeight><ShippingWeight unitOfMeasure="KG">0.03</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>36</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_063K</SKU><StandardProductID><Type>UPC</Type><Value>077540620210</Value></StandardProductID><DescriptionData><Title>DMC Patch Tapestry Starter Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun starter kit for tapestry.  You can make yourself a 15cm square tapestry of a orange monster.  
+
+This kit contains: 
+> Printed Canvas 
+> DMC soft cotton thread 
+> Tapestry needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm square (6")
+
+DIFFICULTY: perfect for children, due to the sharp needle and the small parts it is not recommended for children under 3.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>37</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1365</SKU><StandardProductID><Type>UPC</Type><Value>077540551620</Value></StandardProductID><DescriptionData><Title>DMC Santa With Sleigh Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a 15cm x 15cm a lovely Christmas Scene.
+
+This kit contains: 
+> 14 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm x 15cm (6" x 6"),
+
+DIFFICULTY: Moderate]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>38</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1366</SKU><StandardProductID><Type>UPC</Type><Value>077540551637</Value></StandardProductID><DescriptionData><Title>DMC Snowman With Presents Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a 15cm x 15cm cheery snowman image with presents, a lovely Christmas Scene.
+
+This kit contains: 
+> 14 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm x 15cm (6" x 6"),
+
+DIFFICULTY: Moderate]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>39</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1440</SKU><StandardProductID><Type>UPC</Type><Value>077540619818</Value></StandardProductID><DescriptionData><Title>DMC Elegance Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a 25cm x 25cm classic image of Audrey Hepburn. 
+
+This kit contains: 
+> 14 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 25cm x 25cm (10" x 10"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>40</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BK1450</SKU><StandardProductID><Type>UPC</Type><Value>077540619979</Value></StandardProductID><DescriptionData><Title>DMC Summer Swift Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a 20cm x 20cm image featuring a Swift and flowers. 
+
+This kit contains: 
+> 16 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 20cm x 20cm (8" x 8"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>41</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BL1042_64</SKU><StandardProductID><Type>UPC</Type><Value>077540600564</Value></StandardProductID><DescriptionData><Title>DMC The Snowman Flying Past Big Ben Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a festive cross stitch kit.  You can make yourself a 10cm x 20cm image featuring The Snowman 
+
+This kit contains: 
+> Iridescent Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 18cm x 13cm (7" x 5"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>42</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BL1043_64</SKU><StandardProductID><Type>UPC</Type><Value>077540600571</Value></StandardProductID><DescriptionData><Title>DMC The Snowman &amp; Snowdog - Celebration Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a festive cross stitch kit.  You can make yourself a 10cm x 20cm image featuring The Snowman 
+
+This kit contains: 
+> Iridescent Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 18cm x 13cm (7" x 5"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>43</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BOOKMARK_SNOWDOG</SKU><StandardProductID><Type>UPC</Type><Value>077540600595</Value></StandardProductID><DescriptionData><Title>DMC The Snowman Snowdog Bookmark Cross Stitch Kit</Title><Description><![CDATA[Embroider this wonderful bookmark from the film "The Snowman"
+
+This counted cross-stitch kit contains: 
+> 16-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 2" x 6.5" (5 x 17cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>44</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_BOOKMARK_SNOWMAN</SKU><StandardProductID><Type>UPC</Type><Value>077540442287</Value></StandardProductID><DescriptionData><Title>DMC The Snowman Bookmark Cross Stitch Kit</Title><Description><![CDATA[Embroider this wonderful bookmark from the film "The Snowman"
+
+This counted cross-stitch kit contains: 
+> 16-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 2" x 6.5" (5 x 17cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>45</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_C050K</SKU><StandardProductID><Type>UPC</Type><Value>077540392230</Value></StandardProductID><DescriptionData><Title>DMC Campervan Tapestry Starter Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun starter kit for tapestry.  You can make yourself a 15cm square tapestry of a VW camper van.  
+
+This kit contains: 
+> Printed Canvas 
+> DMC soft cotton thread 
+> Tapestry needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm square (6")
+
+DIFFICULTY: perfect for children, due to the sharp needle and the small parts it is not recommended for children under 3.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>46</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_C062K</SKU><StandardProductID><Type>UPC</Type><Value>077540620203</Value></StandardProductID><DescriptionData><Title>DMC Spike Tapestry Starter Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun starter kit for tapestry.  You can make yourself a 15cm square tapestry of a purple monster with spikes on his head.  
+
+This kit contains: 
+> Printed Canvas 
+> DMC soft cotton thread 
+> Tapestry needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm square (6")
+
+DIFFICULTY: perfect for children, due to the sharp needle and the small parts it is not recommended for children under 3.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>47</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_CK036</SKU><StandardProductID><Type>UPC</Type><Value>077540309054</Value></StandardProductID><DescriptionData><Title>DMC Cupcake Tapestry Starter Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a fun starter kit for tapestry.  You can make yourself a 15cm square tapestry of a yummy cupcake.
+
+This kit contains: 
+> Printed Canvas 
+> DMC soft cotton thread 
+> Tapestry needle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 15cm square (6")
+
+DIFFICULTY: perfect for children, due to the sharp needle and the small parts it is not recommended for children under 3.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>48</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_DREAM</SKU><StandardProductID><Type>UPC</Type><Value>077540620029</Value></StandardProductID><DescriptionData><Title>DMC Dream Counted Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[DMC have put together a pretty cross stitch kit.  You can make yourself a DREAM banner measuring 30cm x 13cm 
+
+This kit contains: 
+> 14 count Aida Fabric 
+> DMC cotton threads
+> Cross stitch eedle 
+> Easy to follow instructions
+
+
+FINISHED SIZE: 30cm x 13cm (12" x 5"),
+
+DIFFICULTY: for age 16+.]]></Description><PackageWeight unitOfMeasure="KG">0.15</PackageWeight><ShippingWeight unitOfMeasure="KG">0.15</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>49</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_ELF</SKU><StandardProductID><Type>UPC</Type><Value>077540640324</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Elf Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful cute Elf
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>50</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_PENGUIN</SKU><StandardProductID><Type>UPC</Type><Value>077540640355</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Penguin Cross Stitch Kit</Title><Description><![CDATA[Embroider this colourful cute Penguin
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>51</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_ROBIN</SKU><StandardProductID><Type>UPC</Type><Value>077540640362</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Robin Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful cute Robin
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>52</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_RUDOLPH</SKU><StandardProductID><Type>UPC</Type><Value>077540640379</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Rudolph Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful cute Rudolph
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>53</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_SANTA</SKU><StandardProductID><Type>UPC</Type><Value>077540640386</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Santa Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful traditional Santa
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>54</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_KIT_MINI_SNOWMAN</SKU><StandardProductID><Type>UPC</Type><Value>077540640393</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Character Snowman Cross Stitch Kit</Title><Brand>DMC</Brand><Description><![CDATA[Embroider this colourful cute Snowman
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x " (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><Manufacturer>DMC</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>55</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_MINI_GINGER</SKU><StandardProductID><Type>UPC</Type><Value>077540640331</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Gingerbread Man Cross Stitch Kit</Title><Description><![CDATA[Embroider this colourful cute Gingerbread Man
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x 3" (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>56</MessageID><OperationType>Update</OperationType><Product><SKU>DMC_MINI_POLAR_BEAR</SKU><StandardProductID><Type>UPC</Type><Value>077540640348</Value></StandardProductID><DescriptionData><Title>DMC Mini Christmas Characturer Polar Bear Cross Stitch Kit</Title><Description><![CDATA[Embroider this colourful cute Polar Bear
+
+This counted cross-stitch kit contains: 
+> 14-count antique white aida fabric 
+> embroidery thread 
+> needle 
+> Chart
+> Instructions
+
+STITCHES: full cross-stitch
+
+FINISHED SIZE: approx 3" x 3" (7.5 x 7.5cm) 
+
+DIFFICULTY: perfect for newbies ]]></Description><PackageWeight unitOfMeasure="KG">0.1</PackageWeight><ShippingWeight unitOfMeasure="KG">0.1</ShippingWeight><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message></AmazonEnvelope>

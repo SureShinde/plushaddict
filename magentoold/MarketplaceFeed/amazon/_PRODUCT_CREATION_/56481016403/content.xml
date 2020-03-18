@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd"><Header><DocumentVersion>1.01</DocumentVersion><MerchantIdentifier>A1LTJSQQJZ70N2</MerchantIdentifier></Header><MessageType>Product</MessageType><PurgeAndReplace>false</PurgeAndReplace><Message><MessageID>1</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R13115_250</SKU><StandardProductID><Type>EAN</Type><Value>9317385273204</Value></StandardProductID><DescriptionData><Title>15mm Red Gingham Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of gingham ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R13115\250
+Manufacturer: Groves
+Colour: Red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>2</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R13115_007</SKU><StandardProductID><Type>EAN</Type><Value>9317385273211</Value></StandardProductID><DescriptionData><Title>15mm Grey Gingham Ribbon 5m Reel</Title><Brand>Boutique</Brand><Description><![CDATA[A 5m reel of gingham ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R13115\007
+Manufacturer: Groves
+Colour: Grey
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Boutique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>3</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R13115_308</SKU><StandardProductID><Type>EAN</Type><Value>9317385273228</Value></StandardProductID><DescriptionData><Title>15mm Teal Gingham Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of gingham ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R13115\308
+Manufacturer: Groves
+Colour: Teal
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>4</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R13115_030</SKU><StandardProductID><Type>EAN</Type><Value>9317385273235</Value></StandardProductID><DescriptionData><Title>15mm Black Gingham Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of gingham ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R13115\030
+Manufacturer: Groves
+Colour: Black
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>5</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R13115_123</SKU><StandardProductID><Type>EAN</Type><Value>9317385273242</Value></StandardProductID><DescriptionData><Title>15mm Pink Gingham Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of gingham ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R13115\123
+Manufacturer: Groves
+Colour: Pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>6</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R13115_579</SKU><StandardProductID><Type>EAN</Type><Value>9317385273259</Value></StandardProductID><DescriptionData><Title>15mm Green Gingham Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of gingham ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R13115\579
+Manufacturer: Groves
+Colour: Green
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>7</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R14115_030</SKU><StandardProductID><Type>EAN</Type><Value>9317385273266</Value></StandardProductID><DescriptionData><Title>15mm Black Polka Dot Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of polka dot ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R14115\030
+Manufacturer: Groves
+Colour: Black
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>8</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R14115_250</SKU><StandardProductID><Type>EAN</Type><Value>9317385273273</Value></StandardProductID><DescriptionData><Title>15mm Red Polka Dot Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of polka dot ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R14115\250
+Manufacturer: Groves
+Colour: Red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>9</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R14115_123</SKU><StandardProductID><Type>EAN</Type><Value>9317385273280</Value></StandardProductID><DescriptionData><Title>15mm Pink Polka Dot Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of polka dot ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R14115\123
+Manufacturer: Groves
+Colour: Pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>10</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R14115_640</SKU><StandardProductID><Type>EAN</Type><Value>9317385273297</Value></StandardProductID><DescriptionData><Title>15mm Yellow Polka Dot Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of polka dot ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R14115\640
+Manufacturer: Groves
+Colour: Yellow
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>11</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R14115_308</SKU><StandardProductID><Type>EAN</Type><Value>9317385273303</Value></StandardProductID><DescriptionData><Title>15mm Light Blue Polka Dot Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of polka dot ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R14115\308
+Manufacturer: Groves
+Colour: Light Blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>12</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R14115_370</SKU><StandardProductID><Type>EAN</Type><Value>9317385273310</Value></StandardProductID><DescriptionData><Title>15mm Navy Polka Dot Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of polka dot ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R14115\370
+Manufacturer: Groves
+Colour: Navy
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message></AmazonEnvelope>

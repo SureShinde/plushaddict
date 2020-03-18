@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<SubmitFeedResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/"><SubmitFeedResult><FeedSubmissionInfo><FeedSubmissionId>50324016376</FeedSubmissionId><FeedType>_POST_INVENTORY_AVAILABILITY_DATA_</FeedType><SubmittedDate>2014-11-02T17:12:35+00:00</SubmittedDate><FeedProcessingStatus>_SUBMITTED_</FeedProcessingStatus></FeedSubmissionInfo></SubmitFeedResult><ResponseMetadata><RequestId>7da413c9-7742-4a8f-9c1f-09627f9ef699</RequestId></ResponseMetadata></SubmitFeedResponse>

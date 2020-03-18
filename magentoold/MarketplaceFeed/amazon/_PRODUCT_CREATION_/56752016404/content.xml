@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd"><Header><DocumentVersion>1.01</DocumentVersion><MerchantIdentifier>A1LTJSQQJZ70N2</MerchantIdentifier></Header><MessageType>Product</MessageType><PurgeAndReplace>false</PurgeAndReplace><Message><MessageID>1</MessageID><OperationType>Update</OperationType><Product><SKU>MICH_MMCX3137FOREST_METRE</SKU><StandardProductID><Type>EAN</Type><Value>5035876991447</Value></StandardProductID><DescriptionData><Title>Michael Miller - Play Stripe Forest - Per Metre</Title><Brand>Michael Miller</Brand><Description><![CDATA[Stripe fabric from Michael Miller in the Forest colour way]]></Description><PackageWeight unitOfMeasure="KG">0.16</PackageWeight><ShippingWeight unitOfMeasure="KG">0.16</ShippingWeight><Manufacturer>Michael Miller</Manufacturer><RecommendedBrowseNode>372825011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Crafts</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>2</MessageID><OperationType>Update</OperationType><Product><SKU>PA_PUL_METRE</SKU><StandardProductID><Type>EAN</Type><Value>5035876991751</Value></StandardProductID><DescriptionData><Title>Plush Addict White PUL - Per Metre</Title><Brand>Plush Addict</Brand><Description><![CDATA[This is a premium PUL and is manufactured in the UK by Plush Addict. 
+
+PUL is a polyester/polyurethane laminated knit fabric. This fabric is waterproof, durable and has a slight crossgrain stretch. This product can be used in making nappies, changing mattress covers and other applications that require waterproof breathable fabric. 
+
+This is machine washable up to 60 degrees and is a medical grade fabric and the coating is protected against fungi and bacteria. The fabric is weldable, especially useful when making wet bags when sealed seams are required. This fabric can also be dry cleaned.
+
+145cm wide Polyeurethane Laminate fabric (PUL).
+]]></Description><PackageWeight unitOfMeasure="KG">0.32</PackageWeight><ShippingWeight unitOfMeasure="KG">0.32</ShippingWeight><Manufacturer>Plush Addict</Manufacturer><RecommendedBrowseNode>10707841</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Crafts</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>3</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_30</SKU><StandardProductID><Type>EAN</Type><Value>9317385273426</Value></StandardProductID><DescriptionData><Title>36mm Black Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\30
+Manufacturer: Groves
+Colour: Black
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>4</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_30</SKU><StandardProductID><Type>EAN</Type><Value>9317385273099</Value></StandardProductID><DescriptionData><Title>25mm Black Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\30
+Manufacturer: Groves
+Colour: Black
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>5</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_51</SKU><StandardProductID><Type>EAN</Type><Value>9317385273082</Value></StandardProductID><DescriptionData><Title>25mm Cream Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\51
+Manufacturer: Groves
+Colour: Cream
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>6</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_49</SKU><StandardProductID><Type>EAN</Type><Value>9317385273075</Value></StandardProductID><DescriptionData><Title>25mm Light Grey Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\49
+Manufacturer: Groves
+Colour: Light Grey
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>7</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_43</SKU><StandardProductID><Type>EAN</Type><Value>9317385273068</Value></StandardProductID><DescriptionData><Title>25mm Plum Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\43
+Manufacturer: Groves
+Colour: Plum
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>8</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_37</SKU><StandardProductID><Type>EAN</Type><Value>9317385273051</Value></StandardProductID><DescriptionData><Title>25mm Green Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\37
+Manufacturer: Groves
+Colour: Green
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>9</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_31</SKU><StandardProductID><Type>EAN</Type><Value>9317385273044</Value></StandardProductID><DescriptionData><Title>25mm Old Gold Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\31
+Manufacturer: Groves
+Colour: Old Gold
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>10</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_24</SKU><StandardProductID><Type>EAN</Type><Value>9317385273037</Value></StandardProductID><DescriptionData><Title>25mm Lilac Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\24
+Manufacturer: Groves
+Colour: Lilac
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>11</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_18</SKU><StandardProductID><Type>EAN</Type><Value>9317385273020</Value></StandardProductID><DescriptionData><Title>25mm Cerise Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\18
+Manufacturer: Groves
+Colour: Cerise
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>12</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_16</SKU><StandardProductID><Type>EAN</Type><Value>9317385245768</Value></StandardProductID><DescriptionData><Title>25mm Pink Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\16
+Manufacturer: Groves
+Colour: Pink
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>13</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_510</SKU><StandardProductID><Type>EAN</Type><Value>9317385245751</Value></StandardProductID><DescriptionData><Title>36mm Antique White Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\510
+Manufacturer: Groves
+Colour: Antique White
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>14</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_510</SKU><StandardProductID><Type>EAN</Type><Value>9317385245744</Value></StandardProductID><DescriptionData><Title>25mm Antique White Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\510
+Manufacturer: Groves
+Colour: Antique White
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>15</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_16</SKU><StandardProductID><Type>EAN</Type><Value>9317385245737</Value></StandardProductID><DescriptionData><Title>36mm Pink Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\16
+Manufacturer: Groves
+Colour: Pink
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>16</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_47</SKU><StandardProductID><Type>EAN</Type><Value>9317385245720</Value></StandardProductID><DescriptionData><Title>25mm Navy Blue Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\47
+Manufacturer: Groves
+Colour: Navy Blue
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>17</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_19</SKU><StandardProductID><Type>EAN</Type><Value>9317385169330</Value></StandardProductID><DescriptionData><Title>25mm Red Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\19
+Manufacturer: Groves
+Colour: Red
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>18</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15125_01</SKU><StandardProductID><Type>EAN</Type><Value>9317385169293</Value></StandardProductID><DescriptionData><Title>25mm White Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15125\01
+Manufacturer: Groves
+Colour: White
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>19</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_230</SKU><StandardProductID><Type>EAN</Type><Value>9317385168159</Value></StandardProductID><DescriptionData><Title>Automatic Needle Threader and 5 gold eye needles</Title><Brand>Hemline</Brand><Description><![CDATA[Hemline automatic needle threader, including 5 gold eye needles.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Hemline</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Crafts</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>20</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_01</SKU><StandardProductID><Type>EAN</Type><Value>9317385140988</Value></StandardProductID><DescriptionData><Title>36mm White Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\01
+Manufacturer: Groves
+Colour: White
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>21</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_43</SKU><StandardProductID><Type>EAN</Type><Value>9317385116730</Value></StandardProductID><DescriptionData><Title>36mm Plum Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\43
+Manufacturer: Groves
+Colour: Plum
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>22</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_24</SKU><StandardProductID><Type>EAN</Type><Value>9317385116723</Value></StandardProductID><DescriptionData><Title>36mm Lilac Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\24
+Manufacturer: Groves
+Colour: Lilac
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>23</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_49</SKU><StandardProductID><Type>EAN</Type><Value>9317385116716</Value></StandardProductID><DescriptionData><Title>36mm Light Grey Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\49
+Manufacturer: Groves
+Colour: Light Grey
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>24</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_19</SKU><StandardProductID><Type>EAN</Type><Value>9317385116709</Value></StandardProductID><DescriptionData><Title>36mm Red Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\19
+Manufacturer: Groves
+Colour: Red
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>25</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_47</SKU><StandardProductID><Type>EAN</Type><Value>9317385116693</Value></StandardProductID><DescriptionData><Title>36mm Navy Blue Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\47
+Manufacturer: Groves
+Colour: Navy Blue
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>26</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_18</SKU><StandardProductID><Type>EAN</Type><Value>9317385116686</Value></StandardProductID><DescriptionData><Title>36mm Cerise Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\18
+Manufacturer: Groves
+Colour: Cerise
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>27</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_37</SKU><StandardProductID><Type>EAN</Type><Value>9317385116679</Value></StandardProductID><DescriptionData><Title>36mm Green Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\37
+Manufacturer: Groves
+Colour: Green
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>28</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_51</SKU><StandardProductID><Type>EAN</Type><Value>9317385116662</Value></StandardProductID><DescriptionData><Title>36mm Cream Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\51
+Manufacturer: Groves
+Colour: Cream
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>29</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R15136_31</SKU><StandardProductID><Type>EAN</Type><Value>9317385116655</Value></StandardProductID><DescriptionData><Title>36mm Old Gold Organdie Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of organdie ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R15136\31
+Manufacturer: Groves
+Colour: Old Gold
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>30</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10825_S</SKU><StandardProductID><Type>EAN</Type><Value>9317385112220</Value></StandardProductID><DescriptionData><Title>25mm Metallic Silver Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of metallic silver ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10825\S
+Manufacturer: Groves
+Colour: Silver
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>31</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10815_S</SKU><StandardProductID><Type>EAN</Type><Value>9317385112213</Value></StandardProductID><DescriptionData><Title>15mm Metallic Silver Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of metallic silver ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10815\S
+Manufacturer: Groves
+Colour: Silver
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>32</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10807_S</SKU><StandardProductID><Type>EAN</Type><Value>9317385112206</Value></StandardProductID><DescriptionData><Title>7mm Metallic Silver Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of metallic silver ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10807\S
+Manufacturer: Groves
+Colour: Silver
+Width: 7mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>33</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10825_G</SKU><StandardProductID><Type>EAN</Type><Value>9317385106595</Value></StandardProductID><DescriptionData><Title>25mm Metallic Gold Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of metallic gold ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10825\G
+Manufacturer: Groves
+Colour: Gold
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>34</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10815_G</SKU><StandardProductID><Type>EAN</Type><Value>9317385106588</Value></StandardProductID><DescriptionData><Title>15mm Metallic Gold Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of metallic gold ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10815\G
+Manufacturer: Groves
+Colour: Gold
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>35</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10807_G</SKU><StandardProductID><Type>EAN</Type><Value>9317385106571</Value></StandardProductID><DescriptionData><Title>7mm Metallic Gold Ribbon</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of metallic gold ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10807\G
+Manufacturer: Groves
+Colour: Gold
+Width: 7mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>36</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_281</SKU><StandardProductID><Type>EAN</Type><Value>9317385002255</Value></StandardProductID><DescriptionData><Title>Bias Tape Maker 1/2'</Title><Brand>Clover</Brand><Description><![CDATA[Clever little gadget to help you make your own bias binding from fabric of your choice.
+
+1/2" / 12mm]]></Description><PackageWeight unitOfMeasure="KG">1</PackageWeight><ShippingWeight unitOfMeasure="KG">1</ShippingWeight><Manufacturer>Clover</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Crafts</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>37</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_222_L</SKU><StandardProductID><Type>EAN</Type><Value>9317385001968</Value></StandardProductID><DescriptionData><Title>Thimble Size 18 - Large</Title><Brand>Hemline</Brand><Description><![CDATA[A size 18 thimble, large size. ]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Hemline</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Crafts</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>38</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_001</SKU><StandardProductID><Type>EAN</Type><Value>5029784694903</Value></StandardProductID><DescriptionData><Title>15mm Hand Made Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of hand made cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.001
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>39</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_002</SKU><StandardProductID><Type>EAN</Type><Value>5029784694910</Value></StandardProductID><DescriptionData><Title>15mm Hand Made Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of hand made cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.002
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>40</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_003</SKU><StandardProductID><Type>EAN</Type><Value>5029784561687</Value></StandardProductID><DescriptionData><Title>15mm Red Birds &amp; Hearts Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of birds & hearts cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.003
+Manufacturer: Groves
+Colour: red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>41</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_012</SKU><StandardProductID><Type>EAN</Type><Value>5029784694934</Value></StandardProductID><DescriptionData><Title>15mm Sewing Story Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of sewing story cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.012
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>42</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_013</SKU><StandardProductID><Type>EAN</Type><Value>5029784694941</Value></StandardProductID><DescriptionData><Title>15mm Tape Measure Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of tape measure cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.013
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>43</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_014</SKU><StandardProductID><Type>EAN</Type><Value>5029784562059</Value></StandardProductID><DescriptionData><Title>15mm Red Striped Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of striped cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.014
+Manufacturer: Groves
+Colour: Red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>44</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_015</SKU><StandardProductID><Type>EAN</Type><Value>5029784694958</Value></StandardProductID><DescriptionData><Title>15mm Vintage Buttons Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of vintage buttons cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.015
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>45</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_017</SKU><StandardProductID><Type>EAN</Type><Value>5029784694972</Value></StandardProductID><DescriptionData><Title>15mm Musical Notes Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of musical notes cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.017
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>46</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_018</SKU><StandardProductID><Type>EAN</Type><Value>5029784694989</Value></StandardProductID><DescriptionData><Title>15mm Ballerina Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of ballerina cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.018
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>47</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_023</SKU><StandardProductID><Type>EAN</Type><Value>5029784694996</Value></StandardProductID><DescriptionData><Title>15mm Village Scene Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of village scene cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.023
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>48</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_024</SKU><StandardProductID><Type>EAN</Type><Value>5029784562172</Value></StandardProductID><DescriptionData><Title>15mm Red Spots Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of spotty cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.024
+Manufacturer: Groves
+Colour: Red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>49</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_026X</SKU><StandardProductID><Type>EAN</Type><Value>5029784694248</Value></StandardProductID><DescriptionData><Title>15mm Red Flowers Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of flowers cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.026X
+Manufacturer: Groves
+Colour: Red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>50</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_029</SKU><StandardProductID><Type>EAN</Type><Value>5029784695009</Value></StandardProductID><DescriptionData><Title>15mm Red &amp; Green Bunting Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of bunting cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.029
+Manufacturer: Groves
+Colour: red & green
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>51</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_030</SKU><StandardProductID><Type>EAN</Type><Value>5029784695016</Value></StandardProductID><DescriptionData><Title>15mm Red &amp; Navy Bunting Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of bunting cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.030
+Manufacturer: Groves
+Colour: red & navy
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>52</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_037</SKU><StandardProductID><Type>EAN</Type><Value>5029784695023</Value></StandardProductID><DescriptionData><Title>15mm Aqua &amp; Orange Floral Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of floral cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.037
+Manufacturer: Groves
+Colour: Aqua & Orange
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>53</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_041</SKU><StandardProductID><Type>EAN</Type><Value>5029784695030</Value></StandardProductID><DescriptionData><Title>15mm Red Hearts Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of pink hearts cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.041
+Manufacturer: Groves
+Colour: Red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>54</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_042</SKU><StandardProductID><Type>EAN</Type><Value>5029784695047</Value></StandardProductID><DescriptionData><Title>15mm Keys Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of keys cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.042
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>55</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_044</SKU><StandardProductID><Type>EAN</Type><Value>5029784695054</Value></StandardProductID><DescriptionData><Title>15mm Bees Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of bees cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.044
+Manufacturer: Groves
+Colour: black & gold
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>56</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_048</SKU><StandardProductID><Type>EAN</Type><Value>5029784695061</Value></StandardProductID><DescriptionData><Title>15mm Blue Spots Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of spotty cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.048
+Manufacturer: Groves
+Colour: Blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>57</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_048X</SKU><StandardProductID><Type>EAN</Type><Value>5029784562455</Value></StandardProductID><DescriptionData><Title>15mm Buttons Natural Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of buttons natural cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.048X
+Manufacturer: Groves
+Colour: Natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>58</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_050</SKU><StandardProductID><Type>EAN</Type><Value>5029784695078</Value></StandardProductID><DescriptionData><Title>15mm Blue Hearts Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of pink hearts cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.050
+Manufacturer: Groves
+Colour: Blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>59</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_051</SKU><StandardProductID><Type>EAN</Type><Value>5029784695085</Value></StandardProductID><DescriptionData><Title>15mm Blue Striped Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of striped cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.051
+Manufacturer: Groves
+Colour: Blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>60</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_052</SKU><StandardProductID><Type>EAN</Type><Value>5029784695092</Value></StandardProductID><DescriptionData><Title>15mm Blue Flowers Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of flowers cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.052
+Manufacturer: Groves
+Colour: Blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>61</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_053</SKU><StandardProductID><Type>EAN</Type><Value>5029784695115</Value></StandardProductID><DescriptionData><Title>15mm Lime Green Spots Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of spotty cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.053
+Manufacturer: Groves
+Colour: Lime Green
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>62</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_053X</SKU><StandardProductID><Type>EAN</Type><Value>5029784695108</Value></StandardProductID><DescriptionData><Title>15mm Fruits Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of fruits cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.053X
+Manufacturer: Groves
+Colour: natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>63</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_054</SKU><StandardProductID><Type>EAN</Type><Value>5029784695122</Value></StandardProductID><DescriptionData><Title>15mm Lime Green Birds &amp; Gifts Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of birds & gifts cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.054
+Manufacturer: Groves
+Colour: lime green
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>64</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_055</SKU><StandardProductID><Type>EAN</Type><Value>5029784695139</Value></StandardProductID><DescriptionData><Title>15mm Lime Green Hearts Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of pink hearts cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.055
+Manufacturer: Groves
+Colour: Lime Green
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>65</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_056</SKU><StandardProductID><Type>EAN</Type><Value>5029784695146</Value></StandardProductID><DescriptionData><Title>15mm Lime Green Striped Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of striped cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.056
+Manufacturer: Groves
+Colour: Lime Green
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>66</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_057</SKU><StandardProductID><Type>EAN</Type><Value>5029784695160</Value></StandardProductID><DescriptionData><Title>15mm Lime Green Owls Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of owls cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.057
+Manufacturer: Groves
+Colour: Lime Green
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>67</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_057X</SKU><StandardProductID><Type>EAN</Type><Value>5029784695153</Value></StandardProductID><DescriptionData><Title>15mm Birdcages Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of birdcages cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.057X
+Manufacturer: Groves
+Colour: Plum & Blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>68</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_058</SKU><StandardProductID><Type>EAN</Type><Value>5029784695177</Value></StandardProductID><DescriptionData><Title>15mm Lime Green Flowers Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of flowers cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.058
+Manufacturer: Groves
+Colour: Lime GReen
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>69</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_060</SKU><StandardProductID><Type>EAN</Type><Value>5029784695191</Value></StandardProductID><DescriptionData><Title>15mm Pink Birds &amp; Gifts Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of birds & gifts cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.060
+Manufacturer: Groves
+Colour: pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>70</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_061</SKU><StandardProductID><Type>EAN</Type><Value>5029784695207</Value></StandardProductID><DescriptionData><Title>15mm Pink Flowers Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of flowers cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.061
+Manufacturer: Groves
+Colour: Pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>71</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_065</SKU><StandardProductID><Type>EAN</Type><Value>5029784695221</Value></StandardProductID><DescriptionData><Title>15mm Red Bird Garland Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of bird garland cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.065
+Manufacturer: Groves
+Colour: Red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>72</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_066</SKU><StandardProductID><Type>EAN</Type><Value>5029784695238</Value></StandardProductID><DescriptionData><Title>15mm Brown Bird Garland Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of bird garland cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.066
+Manufacturer: Groves
+Colour: Brown
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>73</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_067</SKU><StandardProductID><Type>EAN</Type><Value>5029784695245</Value></StandardProductID><DescriptionData><Title>15mm Black Bird Garland Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of bird garland cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.067
+Manufacturer: Groves
+Colour: Black
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>74</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_075</SKU><StandardProductID><Type>EAN</Type><Value>5029784695283</Value></StandardProductID><DescriptionData><Title>15mm Paw Prints Herringbone Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of paw prints herringbone cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.075
+Manufacturer: Groves
+Colour: black
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>75</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_076</SKU><StandardProductID><Type>EAN</Type><Value>5029784695290</Value></StandardProductID><DescriptionData><Title>15mm Zebra Herringbone Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of zebra herringbone cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.076
+Manufacturer: Groves
+Colour: black
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>76</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_082</SKU><StandardProductID><Type>EAN</Type><Value>5029784562189</Value></StandardProductID><DescriptionData><Title>15mm Pink Owls Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of owls cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.082
+Manufacturer: Groves
+Colour: Pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>77</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_083</SKU><StandardProductID><Type>EAN</Type><Value>5029784562295</Value></StandardProductID><DescriptionData><Title>15mm Pink Spots Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of spotty cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.083
+Manufacturer: Groves
+Colour: Pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>78</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_1</SKU><StandardProductID><Type>EAN</Type><Value>5029784695306</Value></StandardProductID><DescriptionData><Title>15mm Blue Birds &amp; Gifts Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of birds & gifts cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.1
+Manufacturer: Groves
+Colour: blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>79</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_1775</SKU><StandardProductID><Type>EAN</Type><Value>5029784562462</Value></StandardProductID><DescriptionData><Title>15mm Red &amp; Orange Floral Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of floral cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.1775
+Manufacturer: Groves
+Colour: Red & Orange
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>80</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_184</SKU><StandardProductID><Type>EAN</Type><Value>5029784695320</Value></StandardProductID><DescriptionData><Title>15mm Made With Love Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of made with love patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.184
+Manufacturer: Groves
+Colour: Black
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>81</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_205</SKU><StandardProductID><Type>EAN</Type><Value>5029784562301</Value></StandardProductID><DescriptionData><Title>15mm Pink &amp; Orange Floral Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of floral cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.205
+Manufacturer: Groves
+Colour: Pink & Orange
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>82</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_259</SKU><StandardProductID><Type>EAN</Type><Value>5029784695337</Value></StandardProductID><DescriptionData><Title>15mm Multi Stripes Patterned Satin Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of stripes patterned satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.259
+Manufacturer: Groves
+Colour: Multicoloured
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>83</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_304</SKU><StandardProductID><Type>EAN</Type><Value>5029784695351</Value></StandardProductID><DescriptionData><Title>15mm Light Pink Flowers Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of flowers patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.304
+Manufacturer: Groves
+Colour: light pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>84</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_314</SKU><StandardProductID><Type>EAN</Type><Value>5029784695382</Value></StandardProductID><DescriptionData><Title>15mm Lilac &amp; Blue Flowers Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of flowers patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.314
+Manufacturer: Groves
+Colour: lilac & blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>85</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_378</SKU><StandardProductID><Type>EAN</Type><Value>5029784695429</Value></StandardProductID><DescriptionData><Title>15mm Monkeys Brown Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of monkeys patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.378
+Manufacturer: Groves
+Colour: Brown
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>86</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_545</SKU><StandardProductID><Type>EAN</Type><Value>5029784695443</Value></StandardProductID><DescriptionData><Title>15mm Zebra Stripe Patterned Satin Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of zebra stripe patterned satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.545
+Manufacturer: Groves
+Colour: Black, Silver
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>87</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_437</SKU><StandardProductID><Type>EAN</Type><Value>5029784695467</Value></StandardProductID><DescriptionData><Title>15mm Bird Print Patterned Satin Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of bird print patterned satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.437
+Manufacturer: Groves
+Colour: Taupe
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>88</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_440</SKU><StandardProductID><Type>EAN</Type><Value>5029784695474</Value></StandardProductID><DescriptionData><Title>15mm Multi Butterflies Patterned Satin Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of butterflies patterned satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.440
+Manufacturer: Groves
+Colour: Multicoloured
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>89</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_521</SKU><StandardProductID><Type>EAN</Type><Value>5029784562431</Value></StandardProductID><DescriptionData><Title>15mm Lilac &amp; Orange Floral Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of floral cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.521
+Manufacturer: Groves
+Colour: Lilac & Orange
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>90</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_525</SKU><StandardProductID><Type>EAN</Type><Value>5029784695511</Value></StandardProductID><DescriptionData><Title>15mm Tiger Stripe Patterned Satin Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of tiger stripe patterned satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.525
+Manufacturer: Groves
+Colour: Bronze, Black
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>91</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_560</SKU><StandardProductID><Type>EAN</Type><Value>5029784695535</Value></StandardProductID><DescriptionData><Title>15mm Lucky Horseshoe Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of lucky horseshoe patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.560
+Manufacturer: Groves
+Colour: Black
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>92</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_659</SKU><StandardProductID><Type>EAN</Type><Value>5029784562493</Value></StandardProductID><DescriptionData><Title>15mm Blue &amp; Orange Floral Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of floral cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.659
+Manufacturer: Groves
+Colour: Blue & Orange
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>93</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_665</SKU><StandardProductID><Type>EAN</Type><Value>5029784695559</Value></StandardProductID><DescriptionData><Title>15mm Lime Red Russian Dolls Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of Russian dolls cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.665
+Manufacturer: Groves
+Colour: red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>94</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_679</SKU><StandardProductID><Type>EAN</Type><Value>5029784695566</Value></StandardProductID><DescriptionData><Title>15mm Red Owls Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of owls cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.679
+Manufacturer: Groves
+Colour: Red
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>95</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_680</SKU><StandardProductID><Type>EAN</Type><Value>5029784695573</Value></StandardProductID><DescriptionData><Title>15mm Owls Green Natural Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of owls natural cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.680
+Manufacturer: Groves
+Colour: Natural
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>96</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_711</SKU><StandardProductID><Type>EAN</Type><Value>5029784695580</Value></StandardProductID><DescriptionData><Title>15mm Butterflies Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of butterflies cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.711
+Manufacturer: Groves
+Colour: lilac
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>97</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_7531</SKU><StandardProductID><Type>EAN</Type><Value>5029784562356</Value></StandardProductID><DescriptionData><Title>15mm Brown &amp; Orange Floral Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of floral cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.7531
+Manufacturer: Groves
+Colour: Brown & Orange
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>98</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_900</SKU><StandardProductID><Type>EAN</Type><Value>5029784562448</Value></StandardProductID><DescriptionData><Title>15mm Pink Striped Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of striped cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.900
+Manufacturer: Groves
+Colour: Pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>99</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_901</SKU><StandardProductID><Type>EAN</Type><Value>5029784562387</Value></StandardProductID><DescriptionData><Title>15mm Pink Hearts Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of pink hearts cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.901
+Manufacturer: Groves
+Colour: Pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>100</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR15_902</SKU><StandardProductID><Type>EAN</Type><Value>5029784694224</Value></StandardProductID><DescriptionData><Title>15mm Blue Owls Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of owls cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR15.902
+Manufacturer: Groves
+Colour: Blue
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>101</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR20_016</SKU><StandardProductID><Type>EAN</Type><Value>5029784695603</Value></StandardProductID><DescriptionData><Title>20mm Sewing Design Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of sewing story cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR20.016
+Manufacturer: Groves
+Colour: natural
+Width: 20mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>102</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR20_019</SKU><StandardProductID><Type>EAN</Type><Value>5029784695610</Value></StandardProductID><DescriptionData><Title>20mm Piano Keys Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of piano keys cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR20.019
+Manufacturer: Groves
+Colour: natural
+Width: 20mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>103</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR20_026</SKU><StandardProductID><Type>EAN</Type><Value>5029784695627</Value></StandardProductID><DescriptionData><Title>20mm Travel Print Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of travel print cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR20.026
+Manufacturer: Groves
+Colour: natural
+Width: 20mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>104</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR20_033</SKU><StandardProductID><Type>EAN</Type><Value>5029784695634</Value></StandardProductID><DescriptionData><Title>20mm Nautical Red &amp; Navy Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of nautical cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR20.033
+Manufacturer: Groves
+Colour: red & navy
+Width: 20mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>105</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR20_356</SKU><StandardProductID><Type>EAN</Type><Value>5029784695665</Value></StandardProductID><DescriptionData><Title>20mm Strawberries White Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of strawberries patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR20.356
+Manufacturer: Groves
+Colour: white
+Width: 20mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>106</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR20_360</SKU><StandardProductID><Type>EAN</Type><Value>5029784695672</Value></StandardProductID><DescriptionData><Title>20mm Strawberries Pink Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of strawberries patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR20.360
+Manufacturer: Groves
+Colour: pink
+Width: 20mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>107</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR22_306</SKU><StandardProductID><Type>EAN</Type><Value>5029784695368</Value></StandardProductID><DescriptionData><Title>15mm Pink Flowers Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of flowers patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR22.306
+Manufacturer: Groves
+Colour: pink
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>108</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR22_310</SKU><StandardProductID><Type>EAN</Type><Value>5029784695375</Value></StandardProductID><DescriptionData><Title>15mm Pink &amp; Green Flowers Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of flowers patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR22.310
+Manufacturer: Groves
+Colour: pink & green
+Width: 15mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>109</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR22_456</SKU><StandardProductID><Type>EAN</Type><Value>5029784695702</Value></StandardProductID><DescriptionData><Title>22mm Navy Rose White Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of navy rose patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR22.456
+Manufacturer: Groves
+Colour: white
+Width: 22mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>110</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR22_457</SKU><StandardProductID><Type>EAN</Type><Value>5029784695719</Value></StandardProductID><DescriptionData><Title>22mm Blue Rose Pink Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of blue rose patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR22.457
+Manufacturer: Groves
+Colour: pink
+Width: 22mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>111</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR22_459</SKU><StandardProductID><Type>EAN</Type><Value>5029784695726</Value></StandardProductID><DescriptionData><Title>22mm Pink Rose Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of rose patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR22.459
+Manufacturer: Groves
+Colour: pink
+Width: 22mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>112</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR25_717</SKU><StandardProductID><Type>EAN</Type><Value>5029784695757</Value></StandardProductID><DescriptionData><Title>25mm Butterfly Text Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of butterfly text cotton ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR25.717
+Manufacturer: Groves
+Colour: natural
+Width: 25mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message></AmazonEnvelope>

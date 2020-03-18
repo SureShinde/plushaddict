@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2013-2017 Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" src_type="url"/>
+        <css src="css/main_new.css" media="all"/>
+        <css src="owl-carousel/owl.carousel.css" media="all" />
+        <css src="owl-carousel/owl.theme.css" media="all" />
+        <link src="owl-carousel/owl.carousel.js"/>
+        <link src="js/script.js"/>
+        <link src="js/custom.js"/>
+    </head>
+</page>

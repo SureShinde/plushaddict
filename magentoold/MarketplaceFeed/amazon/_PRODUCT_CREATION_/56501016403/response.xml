@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+	<Header>
+		<DocumentVersion>1.02</DocumentVersion>
+		<MerchantIdentifier>M_PLUSHADDIC_1423660</MerchantIdentifier>
+	</Header>
+	<MessageType>ProcessingReport</MessageType>
+	<Message>
+		<MessageID>1</MessageID>
+		<ProcessingReport>
+			<DocumentTransactionID>56501016403</DocumentTransactionID>
+			<StatusCode>Complete</StatusCode>
+			<ProcessingSummary>
+				<MessagesProcessed>34</MessagesProcessed>
+				<MessagesSuccessful>31</MessagesSuccessful>
+				<MessagesWithError>3</MessagesWithError>
+				<MessagesWithWarning>0</MessagesWithWarning>
+			</ProcessingSummary>
+			<Result>
+				<MessageID>32</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>4400</ResultMessageCode>
+				<ResultDescription>Your seller account is not approved to offer seller-fulfilled products in this category at this time. For more information, please see our Help page: http://sellercentral.amazon.co.uk/gp/errorcode/4400</ResultDescription>
+				<AdditionalInfo>
+					<SKU>GUTERMANN_SEW_ALL_100_545</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>33</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8026</ResultMessageCode>
+				<ResultDescription>Seller is not authorized to list products in this category. For more details, see http://sellercentral.amazon.co.uk/gp/errorcode/8026</ResultDescription>
+				<AdditionalInfo>
+					<SKU>MICH_MMCX3137FOREST_METRE</SKU>
+				</AdditionalInfo>
+			</Result>
+			<Result>
+				<MessageID>34</MessageID>
+				<ResultCode>Error</ResultCode>
+				<ResultMessageCode>8026</ResultMessageCode>
+				<ResultDescription>Seller is not authorized to list products in this category. For more details, see http://sellercentral.amazon.co.uk/gp/errorcode/8026</ResultDescription>
+				<AdditionalInfo>
+					<SKU>PA_PUL_METRE</SKU>
+				</AdditionalInfo>
+			</Result>
+		</ProcessingReport>
+	</Message>
+</AmazonEnvelope>

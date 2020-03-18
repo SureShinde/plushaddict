@@ -1,0 +1,220 @@
+<?php
+/**
+ * Copyright © 2013-2017 Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+/**
+ * Grouped product data template
+ *
+ * @var $block \Magento\Catalog\Block\Product\View\BaseImage
+ * @var $block \Magento\GroupedProduct\Block\Product\View\Type\Grouped
+ */
+?>
+<?php $block->setPreconfiguredValue(); ?>
+<?php $_product = $block->getProduct(); ?>
+<?php $_associatedProducts = $block->getAssociatedProducts(); ?>
+<?php $_hasAssociatedProducts = count($_associatedProducts) > 0; ?>
+
+<?php 
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+$display_order=array(
+                        "per Metre"=>"1",
+                        "per 12cm x 12cm Charm"=>"2",
+                        "per 50cm x 50cm"=>"3",
+                        "per 50cm x 75cm"=>"4",
+                        "per 75cm x 75cm"=>"5",
+                        "per 100cm x 75cm"=>"6",
+                        "per 100cm x 100cm"=>"7",
+                        "per Fat Quarter"=>"8",
+                        "per Charm"=>"9",
+                    ); 
+?>
+
+<?php // Create an Empty Array ?>
+<?php $ordered_collection=array();?>
+<?php $simple_counter = 99; ?>
+<?php foreach ($_associatedProducts as $_item_for_order): //echo $_item_for_order->getId(); ?>
+
+<?php // Set $stock_label ?>
+<?php $itemData = $objectManager->get('\Magento\Catalog\Model\Product')->load($_item_for_order->getId());
+$cut_metre = $itemData->getCutMetre();
+$attr = $itemData->getResource()->getAttribute('cut_metre');
+ if ($attr->usesSource()) {
+       $cut_metre_status = $attr->getSource()->getOptionText($cut_metre);
+ } ?>
+    <?php if (!$cut_metre_status):?>
+        <?php
+        $stock_label = $itemData->getName();
+        $order = $itemData->getPrice();
+		$stock_label_value = ($order*100)+$simple_counter;
+		if(in_array($stock_label_value,$display_order)){
+			$simple_counter--;     
+			$stock_label_value = ($order*100)+$simple_counter;  
+		}
+		$display_order[$stock_label] = $stock_label_value;
+		$simple_counter++;
+        ?>
+    <?php elseif ($cut_metre_status == "Metre"):?>
+        <?php $stock_label = "per Metre"; ?>
+    <?php elseif ($cut_metre_status =="Cut"):?>
+        <?php $stock_label = "per ".$itemData->getAttributeText('cut_type'); ?>
+    <?php else:?>
+        <?php 
+             $stock_label = $itemData->getName(); 
+             $order = $itemData->getPrice();
+             $stock_label_value = ($order*100)+$simple_counter;
+             if(in_array($stock_label_value,$display_order)){
+               $simple_counter--;     
+               $stock_label_value = ($order*100)+$simple_counter;  
+             }
+             $display_order[$stock_label] = $stock_label_value;
+             $simple_counter++;
+        ?>
+    <?php endif; ?>
+    <?php if(array_key_exists($stock_label, $display_order)){
+        $ordered_collection[$display_order[$stock_label]] = $_item_for_order;
+    } ?>
+<?php endforeach; ?>
+
+<?php ksort($ordered_collection); //echo count($ordered_collection);?>
+
+
+<div class="table-wrapper grouped">
+    <div class="table data grouped" id="super-product-table">
+        <?php if ($_hasAssociatedProducts): ?>
+            <ul class="stock_extension">
+                <li class="a-line-item cf">
+                    <div style="background:none;">
+                        <div class="control qty">Enter Quantity</div>
+                        <div class="price-box price-final_price" ></div>
+                        <span></span>
+                    </div>    
+                </li>
+                <?php foreach ($ordered_collection as $_item): ?>
+                    <?php $itemData = $objectManager->get('\Magento\Catalog\Model\Product')->load($_item->getId());
+                    $cut_metre = $itemData->getCutMetre();
+                    $attr = $itemData->getResource()->getAttribute('cut_metre');
+                     if ($attr->usesSource()) {
+                           $cut_metre_status = $attr->getSource()->getOptionText($cut_metre);
+                     } ?>
+                        <?php $qty = $_item->getQty() * 1;
+                        if (!$cut_metre_status):?>
+                            <?php $stock_label = $itemData->getName(); ?>
+                        <?php elseif ($cut_metre_status == "Metre"):?>
+                            <?php $stock_label = "per Metre";
+                            $qty = '0.00' ?>
+                        <?php elseif ($cut_metre_status =="Cut"):?>
+                            <?php $stock_label = "per ".$itemData->getAttributeText('cut_type'); ?>
+                        <?php else:?>
+                            <?php $stock_label = $itemData->getName(); ?>
+                        <?php endif; ?>
+                <li class="a-line-item cf">
+                    <div>
+                        <?php if ($_product->isSaleable()): ?>
+                            <?php if ($_item->isSaleable()) : ?>
+                                <div class="control qty">
+                                    <input type="number" name="super_group[<?php /* @escapeNotVerified */ echo $_item->getId() ?>]"
+                                           data-selector="super_group[<?php /* @escapeNotVerified */ echo $_item->getId() ?>]"
+                                           maxlength="12"
+                                           value=""
+                                           placeholder="<?php /* @escapeNotVerified */ echo $qty; ?>"
+                                           title="<?php /* @escapeNotVerified */ echo __('Qty') ?>"
+                                           class="input-text qty"
+                                           onfocus="this.placeholder = ''"
+                                           onblur="this.placeholder = '<?php /* @escapeNotVerified */ echo $qty; ?>'"
+                                           data-validate="{'validate-greater-than-zero':true}"
+                                           data-errors-message-box="#validation-message-box"/>
+                                </div>
+                            <?php else: ?>
+                                <div style="left: 0;" class="control qty stock unavailable" title="<?php /* @escapeNotVerified */ echo __('Availability') ?>">
+                                    <span><?php /* @escapeNotVerified */ echo __('Out of stock') ?></span>
+                                </div>
+                            <?php endif; ?>
+                        <?php endif; ?>
+                        <?php if ($block->getCanShowProductPrice($_product)): ?>
+                            <?php if ($block->getCanShowProductPrice($_item)): ?>
+                                <?php /* @escapeNotVerified */ echo $block->getProductPrice($_item) ?>
+                            <?php endif; ?>
+                        <?php endif; ?>
+                        <span><?php echo $stock_label; ?></span>
+                    </div>    
+                    <?php if ($block->getCanShowProductPrice($_product)
+                        && $block->getCanShowProductPrice($_item)
+                        && trim($block->getProductPriceHtml(
+                            $_item,
+                            \Magento\Catalog\Pricing\Price\TierPrice::PRICE_CODE
+                        ))): ?>
+                        <tr class="row-tier-price">
+                            <td colspan="2">
+                                <?php echo $block->getProductPriceHtml(
+                                    $_item,
+                                    \Magento\Catalog\Pricing\Price\TierPrice::PRICE_CODE
+                                ) ?>
+                            </td>
+                        </tr>
+                    <?php endif; ?>                    
+                </li>
+                <?php endforeach; ?>
+            </ul>
+        <?php else: ?>
+        <div>
+            <span class="unavailable"
+                    colspan="<?php if ($_product->isSaleable()): ?>4<?php else : ?>3<?php endif; ?>">
+                    <?php /* @escapeNotVerified */ echo __('No options of this product are available.') ?>
+            </span>
+        </div>
+        <?php endif; ?>
+    </div>
+</div>
+<div id="validation-message-box"></div>
+<style>
+    .catalog-product-view .grouped .price-final_price .old-price{ display:none;}
+    .stock_extension li.a-line-item {
+        overflow: visible;
+        white-space: normal;
+    }
+    .stock_extension li.a-line-item > div {
+        height: auto;
+        padding: 0;
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .stock_extension li.a-line-item .control.qty {
+        order: 2;
+        border-left: solid 8px #ffffff;
+        width: 100px;
+        padding: 10px;
+    }
+    .stock_extension li.a-line-item .control.qty input.qty {
+        float: none;
+        width: 100%;
+        min-width: 100%;
+        height: 100%;
+        margin: 0;
+        border-left: 0px solid #fff;
+        padding: 0;
+    }
+    .stock_extension li.a-line-item .price-box {
+        width: 100px;
+        min-width: 100px;
+        text-align: center;
+        padding: 10px;
+    }
+    .stock_extension li.a-line-item .price-box * {
+        float: none;
+        padding: 0;
+        margin: 0;
+    }
+    .stock_extension li.a-line-item > div > span {
+        width: calc(100% - 200px);
+        padding: 10px;
+    }
+    .stock_extension li.a-line-item .prices-tier{max-width: 84%;}
+    .catalog-product-view .table.grouped .price-box .special-price .price-container .price-label{ height: auto; line-height: 17px; margin-top: 0px;}
+    .catalog-product-view .grouped .price-final_price .old-price{ display:block; left: 12px;  bottom: -5px;}
+    .catalog-product-view .table.grouped .price-box .old-price .price{ text-decoration: line-through;}
+</style>
+

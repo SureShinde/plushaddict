@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * @author Amasty Team
+ * @copyright Copyright (c) 2020 Amasty (https://www.amasty.com)
+ * @package Amasty_Rewards
+ */
+-->
+<actionGroups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="urn:magento:mftf:Test/etc/actionGroupSchema.xsd">
+
+    <!-- For Add Points without Expiration Period -->
+    <actionGroup name="AdminAddOrDeductPointsToCustomer">
+        <arguments>
+            <argument name="customerId" type="string"/>
+            <argument name="adminAddOrDeductPoints"/>
+        </arguments>
+        <amOnPage url="{{AdminEditCustomerPage.url(customerId)}}" stepKey="openCustomerEditPage"/>
+        <waitForPageLoad stepKey="waitForPageWithCustomerDataLoad"/>
+        <click selector="{{AdminCustomerAccountRewardPointsSection.RewardPointsTab}}" stepKey="openAdminRewardPointsTab"/>
+        <waitForPageLoad stepKey="waitForLoadRewardPointsPage"/>
+        <click selector="{{AdminCustomerAccountRewardPointsSection.AddOrDeductPoints}}" stepKey="clickToAddPointsButton"/>
+        <selectOption selector="{{AdminCustomerAccountRewardPointsSection.AddOrDeductPointsAction}}"
+                      userInput="{{adminAddOrDeductPoints.action}}"
+                      stepKey="selectAction"/>
+        <fillField selector="{{AdminCustomerAccountRewardPointsSection.AddOrDeductPointsAmount}}"
+                   userInput="{{adminAddOrDeductPoints.amount}}" stepKey="enterAmount"/>
+        <fillField selector="{{AdminCustomerAccountRewardPointsSection.AddOrDeductPointsComment}}"
+                   userInput="{{adminAddOrDeductPoints.comment}}" stepKey="enterComment"/>
+        <click selector="{{AdminCustomerAccountRewardPointsSection.AddOrDeductPointsButtonApply}}" stepKey="clickButtonApply"/>
+        <waitForPageLoad stepKey="waitForPageAfterApplyRule"/>
+    </actionGroup>
+
+    <!-- For Add Points with Expiration Period (Use Only With Action Add) -->
+    <actionGroup name="AdminAddExpirationPointsToCustomer" extends="AdminAddOrDeductPointsToCustomer">
+        <selectOption selector="{{AdminCustomerAccountRewardPointsSection.AddOrDeductPointsExpiration}}"
+                      userInput="{{adminAddOrDeductPoints.expirationBehavior}}"
+                      after="enterAmount" stepKey="selectPointsExpirationBehavior"/>
+        <fillField selector="{{AdminCustomerAccountRewardPointsSection.AddOrDeductPointsExpirationPeriod}}"
+                   userInput="{{adminAddOrDeductPoints.expirationPeriod}}"
+                   after="selectPointsExpirationBehavior" stepKey="enterPeriod"/>
+    </actionGroup>
+
+</actionGroups>

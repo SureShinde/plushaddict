@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<SubmitFeedResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/"><SubmitFeedResult><FeedSubmissionInfo><FeedSubmissionId>53065016390</FeedSubmissionId><FeedType>_POST_PRODUCT_PRICING_DATA_</FeedType><SubmittedDate>2014-11-16T21:24:45+00:00</SubmittedDate><FeedProcessingStatus>_SUBMITTED_</FeedProcessingStatus></FeedSubmissionInfo></SubmitFeedResult><ResponseMetadata><RequestId>49401a15-2cd5-4123-8d3a-ce40adf7787e</RequestId></ResponseMetadata></SubmitFeedResponse>

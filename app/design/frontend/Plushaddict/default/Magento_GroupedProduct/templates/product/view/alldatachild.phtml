@@ -1,0 +1,34 @@
+<?php $block->setPreconfiguredValue(); ?>
+<?php $_product = $block->getProduct(); ?>
+<?php $_associatedProducts = $block->getAssociatedProducts(); ?>
+<?php $_hasAssociatedProducts = count($_associatedProducts) > 0; ?>
+<?php $objectManager = \Magento\Framework\App\ObjectManager::getInstance(); ?>
+
+<div class="short-description">
+    <div class="std">
+        <p>Reference: <?php echo $_product->getSku(); ?></p>
+	    <p><?php if($_product->isSaleable()): echo "<span style='color: green;'>In Stock</span>"; else: echo "<span style='color: red;'>Out of Stock</span>"; endif; ?></p>
+        <?php foreach ($_associatedProducts as $_item_for_order): ?>  
+            <?php 
+                $itemData = $objectManager->get('\Magento\Catalog\Model\Product')->load($_item_for_order->getId());
+                $cut_metre = $itemData->getCutMetre();
+                $cut_metre_status = '';
+                $attr = $itemData->getResource()->getAttribute('cut_metre');
+                if ($attr->usesSource()) :
+                	$cut_metre_status = $attr->getSource()->getOptionText($cut_metre);
+                endif;	
+                if ($cut_metre_status == "Metre"):
+                	$StockState = $objectManager->get('\Magento\CatalogInventory\Api\StockStateInterface');
+                    $metre_qty=$StockState->getStockQty($itemData->getId());
+            ?>  
+                    <?php if ($metre_qty >= 5): ?><?php $metre_qty = "Over 5 metres available" ;?>  
+                        <p class="metre-qty"><?php echo $metre_qty; ?></p>
+                    <?php else: ?>
+                        <p class="metre-qty"><span> <?php /* @escapeNotVerified */ echo __('Up to ') ?><?php echo number_format($metre_qty, 2, '.', '') ; ?></span> <?php /* @escapeNotVerified */ echo __('metres available') ;?></p>
+                    <?php endif; ?>    
+                <?php endif; ?>	    
+        <?php endforeach; ?>
+	    <?php if($_product->getWarehouseLocation()): ?><p>Location: <?php echo $_product->getWarehouseLocation(); ?></p><?php endif; ?> 
+
+	</div>
+</div>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd"><Header><DocumentVersion>1.01</DocumentVersion><MerchantIdentifier>A1LTJSQQJZ70N2</MerchantIdentifier></Header><MessageType>Product</MessageType><PurgeAndReplace>false</PurgeAndReplace><Message><MessageID>1</MessageID><OperationType>Update</OperationType><Product><SKU>PA_PUL_METRE</SKU><StandardProductID><Type>EAN</Type><Value>5035876991751</Value></StandardProductID><DescriptionData><Title>Plush Addict White PUL - Per Metre</Title><Brand>Plush Addict</Brand><Description><![CDATA[This is a premium PUL and is manufactured in the UK by Plush Addict. 
+
+PUL is a polyester/polyurethane laminated knit fabric. This fabric is waterproof, durable and has a slight crossgrain stretch. This product can be used in making nappies, changing mattress covers and other applications that require waterproof breathable fabric. 
+
+This is machine washable up to 60 degrees and is a medical grade fabric and the coating is protected against fungi and bacteria. The fabric is weldable, especially useful when making wet bags when sealed seams are required. This fabric can also be dry cleaned.
+
+145cm wide Polyeurethane Laminate fabric (PUL).
+]]></Description><PackageWeight unitOfMeasure="KG">0.32</PackageWeight><ShippingWeight unitOfMeasure="KG">0.32</ShippingWeight><Manufacturer>Plush Addict</Manufacturer><RecommendedBrowseNode>10707841</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Crafts</ProductType></Miscellaneous></ProductData></Product></Message></AmazonEnvelope>

@@ -1,0 +1,21 @@
+{
+    "name": "dapl/offer",
+    "description": "Admin can manage offer from the same page. ",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "",
+            "name": "Dapl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dapl\\Offer\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

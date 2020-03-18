@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/layout_generic.xsd">
+    
+   <!-- <head>
+        <link src="Dapreport_Wholesalereport::js/requirejs.js"/>
+    </head>-->
+    <update handle="formkey"/>
+    <container name="root" label="Root">
+        <block class="Dapreport\Wholesalereport\Block\Adminhtml\Wholesalereport\Grid" name="admin.wholesalereport.wholesalereport.grid"/>
+    </container>
+</layout>

@@ -1,0 +1,37 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+/** @var Magento\Customer\Block\Account\Customer $block */
+?>
+    <div class="customer-welcome custom-myaccount">
+        <span class="customer-name"
+              role="link"
+              tabindex="0"
+              data-mage-init='{"dropdown":{ "triggerEvent" : "hover"}}'
+              data-toggle="dropdown"
+              data-trigger-keypress-button="true">            
+                <span >My Account</span>
+        </span>
+        <?php if($block->getChildHtml()):?>
+        <div class="customer-menu" data-target="dropdown">
+            <ul class="dropdown">
+                 <?php if($block->customerLoggedIn()): ?>
+                  <li><a href="<?php echo $block->getUrl('customer/account') ?>">Account</a></li>
+                  <li><a href="<?php echo $block->getUrl('customer/account/logout') ?>">Logout</a></li>
+                 <?php else:?>
+                  <li><a href="<?php echo $block->getUrl('customer/account/create') ?>">Register</a></li>
+                  <li><a href="<?php echo $block->getUrl('customer/account/login') ?>">Login</a></li>
+                 <?php endif; ?>
+            </ul>
+        </div>
+        <?php endif; ?>
+    </div>
+<style type="text/css">
+ @media only screen and (max-width:767px) {
+ .custom-myaccount{ display: none;}
+  }
+</style>

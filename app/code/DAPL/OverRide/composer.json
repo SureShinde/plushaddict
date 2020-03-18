@@ -1,0 +1,21 @@
+{
+    "name": "dapl/override",
+    "description": "override core methods",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "prasanta@digitalaptech.com",
+            "name": "prasanta"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DAPL\\OverRide\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

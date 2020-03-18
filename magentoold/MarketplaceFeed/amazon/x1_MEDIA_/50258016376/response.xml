@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<SubmitFeedResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/"><SubmitFeedResult><FeedSubmissionInfo><FeedSubmissionId>50258016376</FeedSubmissionId><FeedType>_POST_PRODUCT_IMAGE_DATA_</FeedType><SubmittedDate>2014-11-02T09:52:39+00:00</SubmittedDate><FeedProcessingStatus>_SUBMITTED_</FeedProcessingStatus></FeedSubmissionInfo></SubmitFeedResult><ResponseMetadata><RequestId>d0423ff3-ff58-4be1-b8a0-862de5711b3e</RequestId></ResponseMetadata></SubmitFeedResponse>

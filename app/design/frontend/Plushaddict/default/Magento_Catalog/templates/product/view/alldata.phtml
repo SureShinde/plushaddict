@@ -1,0 +1,32 @@
+<?php $_product = $block->getProduct();?>
+<?php $product_type=$_product->getTypeId();?>
+<?php if($product_type!='grouped'): ?>
+<div class="short-description">
+    <div class="std">
+        <p>Reference: <?php echo $_product->getSku(); ?></p>
+	    <p><?php if($_product->isSaleable()): echo "<span style='color: green;'>In Stock</span>"; else: echo "<span style='color: red;'>Out of Stock</span>"; endif; ?></p>
+	    <?php if($_product->getWarehouseLocation()): ?><p>Location: <?php echo $_product->getWarehouseLocation(); ?></p><?php endif; ?> 
+	</div>
+</div>
+<?php endif; ?>
+<div itemprop="sku" style="display: none;"><?php echo $_product->getSku(); ?></div>
+<div itemprop="mpn" style="display: none;"><?php echo $_product->getSku(); ?></div>
+<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" style="display: none;">
+   Rated <span itemprop="ratingValue">5</span>/5
+   based on <span itemprop="reviewCount">220</span> customer reviews
+</div>
+<div itemprop="review" itemscope itemtype="http://schema.org/Review" style="display: none;">
+	<span itemprop="name">Over all</span> -
+	by <span itemprop="author">Plush Addict</span>,
+	<meta itemprop="datePublished" content="<?php echo $_product->getCreatedDate(); ?>"><?php echo $_product->getCreatedDate(); ?>
+	<div itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+	  <meta itemprop="worstRating" content = "1"/>
+	  <span itemprop="ratingValue">4.5</span>/
+	  <span itemprop="bestRating">5</span>stars
+	</div>
+	<span itemprop="description">Over all good.</span>
+</div>
+
+<div itemprop="brand" itemscope itemtype="http://schema.org/Brand" style="display: none;">
+	<span itemprop="name">Plush Addict</span>
+</div>

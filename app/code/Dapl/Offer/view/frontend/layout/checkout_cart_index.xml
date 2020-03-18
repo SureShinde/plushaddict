@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="content">
+            <block class="Dapl\Offer\Block\Offer" name="checkout.cart.offer" after="you_may_also_like" template="Dapl_Offer::cartoffer.phtml" >
+           </block>           
+        </referenceContainer>
+    </body>
+</page>

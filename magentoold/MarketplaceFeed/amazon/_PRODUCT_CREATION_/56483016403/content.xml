@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd"><Header><DocumentVersion>1.01</DocumentVersion><MerchantIdentifier>A1LTJSQQJZ70N2</MerchantIdentifier></Header><MessageType>Product</MessageType><PurgeAndReplace>false</PurgeAndReplace><Message><MessageID>1</MessageID><OperationType>Update</OperationType><Product><SKU>BIAS_R77713_BLK_2_5_PACK</SKU><StandardProductID><Type>EAN</Type><Value>5029784608689</Value></StandardProductID><DescriptionData><Title>13mm 2.5 Metre Pack</Title><Brand>Essential Trimmings</Brand><Description><![CDATA[2.5 Metre Pack]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Essential Trimmings</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>2</MessageID><OperationType>Update</OperationType><Product><SKU>BIAS_R77713_WHT_2_5_PACK</SKU><StandardProductID><Type>EAN</Type><Value>5029784608672</Value></StandardProductID><DescriptionData><Title>13mm 2.5 Metre Pack</Title><Brand>Essential Trimmings</Brand><Description><![CDATA[2.5 Metre Pack]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Essential Trimmings</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>3</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VL10_012W</SKU><StandardProductID><Type>EAN</Type><Value>5029784562509</Value></StandardProductID><DescriptionData><Title>10mm Vintage Lace White Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of vintage cotton lace ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VL10.012W
+Manufacturer: Groves
+Colour: White
+Width: 10mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.09</PackageWeight><ShippingWeight unitOfMeasure="KG">0.09</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>4</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VL30_101W</SKU><StandardProductID><Type>EAN</Type><Value>5029784562479</Value></StandardProductID><DescriptionData><Title>30mm Vintage Lace White Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of vintage cotton lace ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VL30.101W
+Manufacturer: Groves
+Colour: White
+Width: 30mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.09</PackageWeight><ShippingWeight unitOfMeasure="KG">0.09</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>5</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VL12_021W</SKU><StandardProductID><Type>EAN</Type><Value>5029784561649</Value></StandardProductID><DescriptionData><Title>12mm Vintage Lace White Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of vintage cotton lace ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VL12.021W
+Manufacturer: Groves
+Colour: White
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.09</PackageWeight><ShippingWeight unitOfMeasure="KG">0.09</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>6</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VL20_106W</SKU><StandardProductID><Type>EAN</Type><Value>5029784561632</Value></StandardProductID><DescriptionData><Title>20mm Vintage Lace White Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of vintage cotton lace ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VL20.106W
+Manufacturer: Groves
+Colour: White
+Width: 20mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.09</PackageWeight><ShippingWeight unitOfMeasure="KG">0.09</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>7</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VL18_098C</SKU><StandardProductID><Type>EAN</Type><Value>5029784561625</Value></StandardProductID><DescriptionData><Title>18mm Vintage Lace Cream Cotton Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of vintage cotton lace ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VL18.098C
+Manufacturer: Groves
+Colour: Cream
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.09</PackageWeight><ShippingWeight unitOfMeasure="KG">0.09</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message></AmazonEnvelope>

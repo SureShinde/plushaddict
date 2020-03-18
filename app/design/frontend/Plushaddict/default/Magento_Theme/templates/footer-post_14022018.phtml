@@ -1,0 +1,39 @@
+<?php
+$helper = $this->helper('Dapl\Custom\Helper\Data');
+$ListPost = $helper->getObjectMan()->create('FishPig\WordPress\Block\Post\ListPost');
+
+//echo '<pre>'; print_r(get_class_methods($ListPost)); echo '</pre>';
+$posts = $ListPost->getLimitedPosts($block->getData('post_count'));
+//echo '<pre>'; print_r(get_class_methods($posts)); echo '</pre>';
+$storeManager = $helper->getObjectMan()->create('\Magento\Store\Model\StoreManagerInterface');
+$store_url = $storeManager->getStore()->getBaseUrl(\Magento\Framework\UrlInterface::URL_TYPE_WEB);
+?>
+
+<a href="<?php echo $store_url; ?>news/"><h3>Latest News</h3></a>
+<ul class="footer links post">
+    <?php foreach($posts as $post):
+    $content = $post->getContent();
+    //$content = preg_replace('/(<)([img])(\w+)([^>]*>)/', '', $content);
+    //$content = preg_replace('/(<)([td])(\w+)([^>]*>)/', '', $content);
+    //$content = preg_replace('/(<)([tr])(\w+)([^>]*>)/', '', $content);
+    //$content = preg_replace('/(<)([table])(\w+)([^>]*>)/', '', $content);
+    //$content = preg_replace('/(<)([tbody])(\w+)([^>]*>)/', '', $content);
+    //$content = preg_replace('/(<)([a])(\w+)([^>]*>)/', '', $content);
+    //echo $content;
+    $string = strip_tags($content);
+    //
+    if (strlen($string) > 40) {
+        $stringCut = substr($string, 0, 40);
+        $string = substr($stringCut, 0, strrpos($stringCut, ' ')).'...'; 
+    }
+    echo $string;
+    ?>
+        <li class="nav item"><a href="<?php echo $post->getUrl(); ?>"><strong><?php echo $post->getName(); ?></strong><?php //echo $string; ?></a></li>
+    <?php endforeach; ?>
+</ul>
+<style>
+    .footer.links.post {
+        overflow-y: scroll;
+        height: 190px;
+    }
+</style>

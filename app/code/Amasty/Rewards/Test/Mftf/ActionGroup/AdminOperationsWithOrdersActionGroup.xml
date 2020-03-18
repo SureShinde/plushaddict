@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * @author Amasty Team
+ * @copyright Copyright (c) 2020 Amasty (https://www.amasty.com)
+ * @package Amasty_Rewards
+ */
+-->
+<actionGroups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="urn:magento:mftf:Test/etc/actionGroupSchema.xsd">
+
+    <!-- For Add Points with Expiration Period (Use Only With Action Add) -->
+    <actionGroup name="AdminFillRefundRewardPointsInOrder">
+        <arguments>
+            <argument name="refundRewardsAmount"/>
+        </arguments>
+        <fillField selector="{{AdminOpenOrder.RefundRewardPoints}}"
+                   userInput="{{refundRewardsAmount}}" stepKey="enterRefundRewardsAmount"/>
+    </actionGroup>
+
+    <!-- For Create Order With Using Reward Points -->
+    <actionGroup name="AdminCreateOrderWithApplyRewardPoints" extends="CreateOrderActionGroup">
+        <arguments>
+            <argument name="applyRewardsAmountForOrder"/>
+        </arguments>
+        <fillField selector="{{AdminOpenOrder.ApplyRewardsForOrderField}}" after="waitForProductAddedInOrder"
+                   userInput="{{applyRewardsAmountForOrder}}" stepKey="enterApplyRewardsAmount"/>
+        <click selector="{{AdminOpenOrder.ApplyRewardsForOrderButton}}"
+               after="enterApplyRewardsAmount" stepKey="clickToApplyPoints"/>
+        <waitForElementVisible selector="{{AdminOpenOrder.CancelRewardsForOrderButton}}"
+                               after="clickToApplyPoints" stepKey="waitAppliedPoints"/>
+        <waitForPageLoad after="waitAppliedPoints" stepKey="waitForPageLoadAfterAppliedPoints"/>
+    </actionGroup>
+
+</actionGroups>

@@ -1,0 +1,44 @@
+<?php
+/**
+ * Copyright © 2013-2017 Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<?php
+/**
+ * Category view template
+ *
+ * @var $block \Magento\Catalog\Block\Category\View
+ */
+?>
+
+<?php
+    $_category  = $block->getCurrentCategory();
+ ?>   
+<?php if ($_description = $_category->getDescription()): ?>
+    <div class="column top_info">
+        <?php if ($_imgUrl = $_category->getImageUrl()): ?>
+        <div class="image_panel">
+            <img class="img-responsive" src="<?php echo $_imgUrl; ?>" alt="<?php /* @escapeNotVerified */ echo $_category->getName();?>" >
+        </div>
+        <?php  else :?>
+        	<div class="image_panel">
+        	    <img class="img-responsive" src="<?php echo $this->getViewFileUrl('images/pic1.jpg'); ?>" alt="pic">
+        	</div>
+        <?php endif; ?>	
+        <div class="info_panel">
+            <?php /* @escapeNotVerified */ echo $this->helper('Magento\Catalog\Helper\Output')->categoryAttribute($block->getCurrentCategory(), $_description, 'description') ?>
+        </div>
+    </div>
+<?php endif; ?>
+<style>
+    .backinsoon { position: absolute; left: 50%; top: 0; -webkit-transform: translateX(-50%); transform: translateX(-50%); padding: 6px 15px; background: rgba(255, 255, 255, 1); color: #e1325d; font-weight: bold; text-transform: uppercase; }
+    .catalog-category-view .product-item .price-box { display: flex; flex-flow: row wrap; justify-content: center; }
+    .catalog-category-view .product-item .price-box .minimal-price { width: 100%; }
+    .catalog-category-view .product-item .price-box .special-price, .catalog-category-view .product-item .price-box .old-price { display: inline-block; vertical-align: top; }
+    .catalog-category-view .product-item .price-box .special-price  .price-label, .catalog-category-view .product-item .price-box .old-price .price-label { display: none; }
+    .catalog-category-view .product-item .price-box .old-price { margin: 0; color: #df3c58; text-decoration: line-through; order: -1; margin-right: 15px; }
+</style>

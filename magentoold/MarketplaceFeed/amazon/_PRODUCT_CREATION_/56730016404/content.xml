@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd"><Header><DocumentVersion>1.01</DocumentVersion><MerchantIdentifier>A1LTJSQQJZ70N2</MerchantIdentifier></Header><MessageType>Product</MessageType><PurgeAndReplace>false</PurgeAndReplace><Message><MessageID>1</MessageID><OperationType>Update</OperationType><Product><SKU>MICH_MMCX3137FOREST_METRE</SKU><StandardProductID><Type>EAN</Type><Value>5035876991447</Value></StandardProductID><DescriptionData><Title>Michael Miller - Play Stripe Forest - Per Metre</Title><Brand>Michael Miller</Brand><Description><![CDATA[Stripe fabric from Michael Miller in the Forest colour way]]></Description><PackageWeight unitOfMeasure="KG">0.16</PackageWeight><ShippingWeight unitOfMeasure="KG">0.16</ShippingWeight><Manufacturer>Michael Miller</Manufacturer><RecommendedBrowseNode>372825011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Crafts</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>2</MessageID><OperationType>Update</OperationType><Product><SKU>PA_PUL_METRE</SKU><StandardProductID><Type>EAN</Type><Value>5035876991751</Value></StandardProductID><DescriptionData><Title>Plush Addict White PUL - Per Metre</Title><Brand>Plush Addict</Brand><Description><![CDATA[This is a premium PUL and is manufactured in the UK by Plush Addict. 
+
+PUL is a polyester/polyurethane laminated knit fabric. This fabric is waterproof, durable and has a slight crossgrain stretch. This product can be used in making nappies, changing mattress covers and other applications that require waterproof breathable fabric. 
+
+This is machine washable up to 60 degrees and is a medical grade fabric and the coating is protected against fungi and bacteria. The fabric is weldable, especially useful when making wet bags when sealed seams are required. This fabric can also be dry cleaned.
+
+145cm wide Polyeurethane Laminate fabric (PUL).
+]]></Description><PackageWeight unitOfMeasure="KG">0.32</PackageWeight><ShippingWeight unitOfMeasure="KG">0.32</ShippingWeight><Manufacturer>Plush Addict</Manufacturer><RecommendedBrowseNode>10707841</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Crafts</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>3</MessageID><OperationType>Update</OperationType><Product><SKU>GUTERMANN_SEW_ALL_100_545</SKU><StandardProductID><Type>EAN</Type><Value>4008015022242</Value></StandardProductID><DescriptionData><Title>100m Gutermann Sew-all Thread 545</Title><Brand>Gutermann</Brand><Description><![CDATA[<p>&nbsp;</p>
+<p style="text-align: center;"><img src="{{media url="wysiwyg/multi-buy2.png"}}" alt="" /><br /><strong><span style="font-size: large;">Buy 3 Gutterman Sew-all threads of the same size (any colour) and save 5%!</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;"><strong><span>Buy 10 Gutterman Sew-all threads of the same size <strong><span>&nbsp;(any colour)</span></strong>&nbsp;and save 10%!</span></strong></span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: large;">Discount applied in your basket</span></strong></p>
+<p style="text-align: left;"><span style="font-size: large;"><br /></span></p>
+<p style="text-align: left;"><span style="font-size: large;">Gutermann Sew-all thread is the most reliable of machine threads. It may be used on natural, blended and synthetic fabrics which makes it extremely versatile.</span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p>&nbsp;</p>]]></Description><PackageWeight unitOfMeasure="KG">0.04</PackageWeight><ShippingWeight unitOfMeasure="KG">0.04</ShippingWeight><Manufacturer>Gutermann</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>4</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_01</SKU><StandardProductID><Type>EAN</Type><Value>9317385166667</Value></StandardProductID><DescriptionData><Title>3mm White Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\01
+Manufacturer: Groves
+Colour: white
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>5</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_02</SKU><StandardProductID><Type>EAN</Type><Value>9317385166674</Value></StandardProductID><DescriptionData><Title>3mm Cream Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\02
+Manufacturer: Groves
+Colour: cream
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>6</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_12</SKU><StandardProductID><Type>EAN</Type><Value>9317385166698</Value></StandardProductID><DescriptionData><Title>3mm Light Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\12
+Manufacturer: Groves
+Colour: light blue
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>7</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_16</SKU><StandardProductID><Type>EAN</Type><Value>9317385166704</Value></StandardProductID><DescriptionData><Title>3mm Lilac Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\16
+Manufacturer: Groves
+Colour: lilac
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>8</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_20</SKU><StandardProductID><Type>EAN</Type><Value>9317385166711</Value></StandardProductID><DescriptionData><Title>3mm Pink Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\20
+Manufacturer: Groves
+Colour: pink
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>9</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_22</SKU><StandardProductID><Type>EAN</Type><Value>9317385166728</Value></StandardProductID><DescriptionData><Title>3mm Scarlet Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\22
+Manufacturer: Groves
+Colour: scarlet
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>10</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_24</SKU><StandardProductID><Type>EAN</Type><Value>9317385166735</Value></StandardProductID><DescriptionData><Title>3mm Red Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\24
+Manufacturer: Groves
+Colour: red
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>11</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_26</SKU><StandardProductID><Type>EAN</Type><Value>9317385166759</Value></StandardProductID><DescriptionData><Title>3mm Green Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\26
+Manufacturer: Groves
+Colour: green
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>12</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_28</SKU><StandardProductID><Type>EAN</Type><Value>9317385166766</Value></StandardProductID><DescriptionData><Title>3mm Royal Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\28
+Manufacturer: Groves
+Colour: royal blue
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>13</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_30</SKU><StandardProductID><Type>EAN</Type><Value>9317385166773</Value></StandardProductID><DescriptionData><Title>3mm Black Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\30
+Manufacturer: Groves
+Colour: black
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>14</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_470</SKU><StandardProductID><Type>EAN</Type><Value>9317385273150</Value></StandardProductID><DescriptionData><Title>3mm Purple Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\470
+Manufacturer: Groves
+Colour: purple
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>15</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_525</SKU><StandardProductID><Type>EAN</Type><Value>9317385166780</Value></StandardProductID><DescriptionData><Title>3mm Navy Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\525
+Manufacturer: Groves
+Colour: navy blue
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>16</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_65</SKU><StandardProductID><Type>EAN</Type><Value>9317385163246</Value></StandardProductID><DescriptionData><Title>3mm Harvest Yellow Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\65
+Manufacturer: Groves
+Colour: harvest yellow
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>17</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_81</SKU><StandardProductID><Type>EAN</Type><Value>9317385166797</Value></StandardProductID><DescriptionData><Title>3mm Gold Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\81
+Manufacturer: Groves
+Colour: gold
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>18</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_810</SKU><StandardProductID><Type>EAN</Type><Value>9317385273105</Value></StandardProductID><DescriptionData><Title>3mm Ivory Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\810
+Manufacturer: Groves
+Colour: ivory
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>19</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10103_83</SKU><StandardProductID><Type>EAN</Type><Value>9317385166803</Value></StandardProductID><DescriptionData><Title>3mm Wine Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10103\83
+Manufacturer: Groves
+Colour: wine
+Width: 3mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>20</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_01</SKU><StandardProductID><Type>EAN</Type><Value>9317385105857</Value></StandardProductID><DescriptionData><Title>6mm White Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\01
+Manufacturer: Groves
+Colour: white
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>21</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_02</SKU><StandardProductID><Type>EAN</Type><Value>9317385106274</Value></StandardProductID><DescriptionData><Title>6mm Cream Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\02
+Manufacturer: Groves
+Colour: cream
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>22</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_12</SKU><StandardProductID><Type>EAN</Type><Value>9317385106458</Value></StandardProductID><DescriptionData><Title>6mm Light Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\12
+Manufacturer: Groves
+Colour: light blue
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>23</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_16</SKU><StandardProductID><Type>EAN</Type><Value>9317385109275</Value></StandardProductID><DescriptionData><Title>6mm Lilac Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\16
+Manufacturer: Groves
+Colour: lilac
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>24</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_20</SKU><StandardProductID><Type>EAN</Type><Value>9317385106397</Value></StandardProductID><DescriptionData><Title>6mm Pink Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\20
+Manufacturer: Groves
+Colour: pink
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>25</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_22</SKU><StandardProductID><Type>EAN</Type><Value>9317385105918</Value></StandardProductID><DescriptionData><Title>6mm Scarlet Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\22
+Manufacturer: Groves
+Colour: scarlet
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>26</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_24</SKU><StandardProductID><Type>EAN</Type><Value>9317385105970</Value></StandardProductID><DescriptionData><Title>6mm Red Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\24
+Manufacturer: Groves
+Colour: red
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>27</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_26</SKU><StandardProductID><Type>EAN</Type><Value>9317385109336</Value></StandardProductID><DescriptionData><Title>6mm Green Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\26
+Manufacturer: Groves
+Colour: green
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>28</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_28</SKU><StandardProductID><Type>EAN</Type><Value>9317385109398</Value></StandardProductID><DescriptionData><Title>6mm Royal Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\28
+Manufacturer: Groves
+Colour: royal blue
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>29</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_30</SKU><StandardProductID><Type>EAN</Type><Value>9317385106090</Value></StandardProductID><DescriptionData><Title>6mm Black Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\30
+Manufacturer: Groves
+Colour: black
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>30</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_470</SKU><StandardProductID><Type>EAN</Type><Value>9317385273167</Value></StandardProductID><DescriptionData><Title>6mm Purple Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\470
+Manufacturer: Groves
+Colour: purple
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>31</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_525</SKU><StandardProductID><Type>EAN</Type><Value>9317385106151</Value></StandardProductID><DescriptionData><Title>6mm Navy Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\525
+Manufacturer: Groves
+Colour: navy blue
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>32</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_65</SKU><StandardProductID><Type>EAN</Type><Value>9317385157160</Value></StandardProductID><DescriptionData><Title>6mm Harvest Yellow Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\65
+Manufacturer: Groves
+Colour: harvest yellow
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>33</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_81</SKU><StandardProductID><Type>EAN</Type><Value>9317385108827</Value></StandardProductID><DescriptionData><Title>6mm Gold Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\81
+Manufacturer: Groves
+Colour: gold
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>34</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_810</SKU><StandardProductID><Type>EAN</Type><Value>9317385273112</Value></StandardProductID><DescriptionData><Title>6mm Ivory Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\810
+Manufacturer: Groves
+Colour: ivory
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>35</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10106_83</SKU><StandardProductID><Type>EAN</Type><Value>9317385108841</Value></StandardProductID><DescriptionData><Title>6mm Wine Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10106\83
+Manufacturer: Groves
+Colour: wine
+Width: 6mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>36</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_01</SKU><StandardProductID><Type>EAN</Type><Value>9317385105871</Value></StandardProductID><DescriptionData><Title>12mm White Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\01
+Manufacturer: Groves
+Colour: white
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>37</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_02</SKU><StandardProductID><Type>EAN</Type><Value>9317385106298</Value></StandardProductID><DescriptionData><Title>12mm Cream Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\02
+Manufacturer: Groves
+Colour: cream
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>38</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_12</SKU><StandardProductID><Type>EAN</Type><Value>9317385106472</Value></StandardProductID><DescriptionData><Title>12mm Light Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\12
+Manufacturer: Groves
+Colour: light blue
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>39</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_16</SKU><StandardProductID><Type>EAN</Type><Value>9317385109299</Value></StandardProductID><DescriptionData><Title>12mm Lilac Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\16
+Manufacturer: Groves
+Colour: lilac
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>40</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_20</SKU><StandardProductID><Type>EAN</Type><Value>9317385106410</Value></StandardProductID><DescriptionData><Title>12mm Pink Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\20
+Manufacturer: Groves
+Colour: pink
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>41</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_22</SKU><StandardProductID><Type>EAN</Type><Value>9317385105932</Value></StandardProductID><DescriptionData><Title>12mm Scarlet Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\22
+Manufacturer: Groves
+Colour: scarlet
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>42</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_24</SKU><StandardProductID><Type>EAN</Type><Value>9317385105994</Value></StandardProductID><DescriptionData><Title>12mm Red Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\24
+Manufacturer: Groves
+Colour: red
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>43</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_26</SKU><StandardProductID><Type>EAN</Type><Value>9317385109350</Value></StandardProductID><DescriptionData><Title>12mm Green Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\26
+Manufacturer: Groves
+Colour: green
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>44</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_28</SKU><StandardProductID><Type>EAN</Type><Value>9317385109411</Value></StandardProductID><DescriptionData><Title>12mm Royal Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\28
+Manufacturer: Groves
+Colour: royal blue
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>45</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_30</SKU><StandardProductID><Type>EAN</Type><Value>9317385106113</Value></StandardProductID><DescriptionData><Title>12mm Black Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\30
+Manufacturer: Groves
+Colour: black
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>46</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_470</SKU><StandardProductID><Type>EAN</Type><Value>9317385273174</Value></StandardProductID><DescriptionData><Title>12mm Purple Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\470
+Manufacturer: Groves
+Colour: purple
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>47</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_525</SKU><StandardProductID><Type>EAN</Type><Value>9317385106175</Value></StandardProductID><DescriptionData><Title>12mm Navy Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\525
+Manufacturer: Groves
+Colour: navy blue
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>48</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_65</SKU><StandardProductID><Type>EAN</Type><Value>9317385163253</Value></StandardProductID><DescriptionData><Title>12mm Harvest Yellow Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\65
+Manufacturer: Groves
+Colour: harvest yellow
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>49</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_81</SKU><StandardProductID><Type>EAN</Type><Value>9317385108902</Value></StandardProductID><DescriptionData><Title>12mm Gold Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\81
+Manufacturer: Groves
+Colour: gold
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>50</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_810</SKU><StandardProductID><Type>EAN</Type><Value>9317385273129</Value></StandardProductID><DescriptionData><Title>12mm Ivory Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\810
+Manufacturer: Groves
+Colour: ivory
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>51</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10112_83</SKU><StandardProductID><Type>EAN</Type><Value>9317385108926</Value></StandardProductID><DescriptionData><Title>12mm Wine Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10112\83
+Manufacturer: Groves
+Colour: wine
+Width: 12mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>52</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_01</SKU><StandardProductID><Type>EAN</Type><Value>9317385105888</Value></StandardProductID><DescriptionData><Title>18mm White Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\01
+Manufacturer: Groves
+Colour: white
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>53</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_02</SKU><StandardProductID><Type>EAN</Type><Value>9317385106304</Value></StandardProductID><DescriptionData><Title>18mm Cream Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\02
+Manufacturer: Groves
+Colour: cream
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>54</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_12</SKU><StandardProductID><Type>EAN</Type><Value>9317385106489</Value></StandardProductID><DescriptionData><Title>18mm Light Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\12
+Manufacturer: Groves
+Colour: light blue
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>55</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_16</SKU><StandardProductID><Type>EAN</Type><Value>9317385109305</Value></StandardProductID><DescriptionData><Title>18mm Lilac Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\16
+Manufacturer: Groves
+Colour: lilac
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>56</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_20</SKU><StandardProductID><Type>EAN</Type><Value>9317385106427</Value></StandardProductID><DescriptionData><Title>18mm Pink Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\20
+Manufacturer: Groves
+Colour: pink
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>57</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_22</SKU><StandardProductID><Type>EAN</Type><Value>9317385105949</Value></StandardProductID><DescriptionData><Title>18mm Scarlet Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\22
+Manufacturer: Groves
+Colour: scarlet
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>58</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_24</SKU><StandardProductID><Type>EAN</Type><Value>9317385106007</Value></StandardProductID><DescriptionData><Title>18mm Red Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\24
+Manufacturer: Groves
+Colour: red
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>59</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_26</SKU><StandardProductID><Type>EAN</Type><Value>9317385109367</Value></StandardProductID><DescriptionData><Title>18mm Green Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\26
+Manufacturer: Groves
+Colour: green
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>60</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_28</SKU><StandardProductID><Type>EAN</Type><Value>9317385109428</Value></StandardProductID><DescriptionData><Title>18mm Royal Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\28
+Manufacturer: Groves
+Colour: royal blue
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>61</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_30</SKU><StandardProductID><Type>EAN</Type><Value>9317385106120</Value></StandardProductID><DescriptionData><Title>18mm Black Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\30
+Manufacturer: Groves
+Colour: black
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>62</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_470</SKU><StandardProductID><Type>EAN</Type><Value>9317385245782</Value></StandardProductID><DescriptionData><Title>18mm Purple Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\470
+Manufacturer: Groves
+Colour: purple
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>63</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_525</SKU><StandardProductID><Type>EAN</Type><Value>9317385106182</Value></StandardProductID><DescriptionData><Title>18mm Navy Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\525
+Manufacturer: Groves
+Colour: navy blue
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>64</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_65</SKU><StandardProductID><Type>EAN</Type><Value>9317385163260</Value></StandardProductID><DescriptionData><Title>18mm Harvest Yellow Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\65
+Manufacturer: Groves
+Colour: harvest yellow
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>65</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_81</SKU><StandardProductID><Type>EAN</Type><Value>9317385108940</Value></StandardProductID><DescriptionData><Title>18mm Gold Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\81
+Manufacturer: Groves
+Colour: gold
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>66</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_810</SKU><StandardProductID><Type>EAN</Type><Value>9317385245799</Value></StandardProductID><DescriptionData><Title>18mm Ivory Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\810
+Manufacturer: Groves
+Colour: ivory
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>67</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10118_83</SKU><StandardProductID><Type>EAN</Type><Value>9317385108964</Value></StandardProductID><DescriptionData><Title>18mm Wine Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10118\83
+Manufacturer: Groves
+Colour: wine
+Width: 18mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.06</PackageWeight><ShippingWeight unitOfMeasure="KG">0.06</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>68</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_01</SKU><StandardProductID><Type>EAN</Type><Value>9317385105895</Value></StandardProductID><DescriptionData><Title>24mm White Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\01
+Manufacturer: Groves
+Colour: white
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>69</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_02</SKU><StandardProductID><Type>EAN</Type><Value>9317385106311</Value></StandardProductID><DescriptionData><Title>24mm Cream Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\02
+Manufacturer: Groves
+Colour: cream
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>70</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_12</SKU><StandardProductID><Type>EAN</Type><Value>9317385106496</Value></StandardProductID><DescriptionData><Title>24mm Light Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\12
+Manufacturer: Groves
+Colour: light blue
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>71</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_16</SKU><StandardProductID><Type>EAN</Type><Value>9317385109312</Value></StandardProductID><DescriptionData><Title>24mm Lilac Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\16
+Manufacturer: Groves
+Colour: lilac
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>72</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_20</SKU><StandardProductID><Type>EAN</Type><Value>9317385106434</Value></StandardProductID><DescriptionData><Title>24mm Pink Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\20
+Manufacturer: Groves
+Colour: pink
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>73</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_22</SKU><StandardProductID><Type>EAN</Type><Value>9317385105956</Value></StandardProductID><DescriptionData><Title>24mm Scarlet Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\22
+Manufacturer: Groves
+Colour: scarlet
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>74</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_24</SKU><StandardProductID><Type>EAN</Type><Value>9317385106014</Value></StandardProductID><DescriptionData><Title>24mm Red Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\24
+Manufacturer: Groves
+Colour: red
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>75</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_26</SKU><StandardProductID><Type>EAN</Type><Value>9317385109374</Value></StandardProductID><DescriptionData><Title>24mm Green Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\26
+Manufacturer: Groves
+Colour: green
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>76</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_28</SKU><StandardProductID><Type>EAN</Type><Value>9317385109435</Value></StandardProductID><DescriptionData><Title>24mm Royal Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\28
+Manufacturer: Groves
+Colour: royal blue
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>77</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_30</SKU><StandardProductID><Type>EAN</Type><Value>9317385106137</Value></StandardProductID><DescriptionData><Title>24mm Black Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\30
+Manufacturer: Groves
+Colour: black
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>78</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_470</SKU><StandardProductID><Type>EAN</Type><Value>9317385273181</Value></StandardProductID><DescriptionData><Title>24mm Purple Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\470
+Manufacturer: Groves
+Colour: purple
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>79</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_525</SKU><StandardProductID><Type>EAN</Type><Value>9317385106199</Value></StandardProductID><DescriptionData><Title>24mm Navy Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\525
+Manufacturer: Groves
+Colour: navy blue
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>80</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_65</SKU><StandardProductID><Type>EAN</Type><Value>9317385163277</Value></StandardProductID><DescriptionData><Title>24mm Harvest Yellow Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\65
+Manufacturer: Groves
+Colour: harvest yellow
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>81</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_81</SKU><StandardProductID><Type>EAN</Type><Value>9317385108988</Value></StandardProductID><DescriptionData><Title>24mm Gold Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\81
+Manufacturer: Groves
+Colour: gold
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>82</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_810</SKU><StandardProductID><Type>EAN</Type><Value>9317385273136</Value></StandardProductID><DescriptionData><Title>24mm Ivory Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\810
+Manufacturer: Groves
+Colour: ivory
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>83</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10124_83</SKU><StandardProductID><Type>EAN</Type><Value>9317385109008</Value></StandardProductID><DescriptionData><Title>24mm Wine Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10124\83
+Manufacturer: Groves
+Colour: wine
+Width: 24mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.07</PackageWeight><ShippingWeight unitOfMeasure="KG">0.07</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>84</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_01</SKU><StandardProductID><Type>EAN</Type><Value>9317385105901</Value></StandardProductID><DescriptionData><Title>36mm White Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\01
+Manufacturer: Groves
+Colour: white
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>85</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_02</SKU><StandardProductID><Type>EAN</Type><Value>9317385106328</Value></StandardProductID><DescriptionData><Title>36mm Cream Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\02
+Manufacturer: Groves
+Colour: cream
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>86</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_12</SKU><StandardProductID><Type>EAN</Type><Value>9317385106502</Value></StandardProductID><DescriptionData><Title>36mm Light Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\12
+Manufacturer: Groves
+Colour: light blue
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>87</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_16</SKU><StandardProductID><Type>EAN</Type><Value>9317385109329</Value></StandardProductID><DescriptionData><Title>36mm Lilac Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\16
+Manufacturer: Groves
+Colour: lilac
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>88</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_20</SKU><StandardProductID><Type>EAN</Type><Value>9317385106441</Value></StandardProductID><DescriptionData><Title>36mm Pink Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\20
+Manufacturer: Groves
+Colour: pink
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>89</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_22</SKU><StandardProductID><Type>EAN</Type><Value>9317385105963</Value></StandardProductID><DescriptionData><Title>36mm Scarlet Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\22
+Manufacturer: Groves
+Colour: scarlet
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>90</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_24</SKU><StandardProductID><Type>EAN</Type><Value>9317385106021</Value></StandardProductID><DescriptionData><Title>36mm Red Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\24
+Manufacturer: Groves
+Colour: red
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>91</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_26</SKU><StandardProductID><Type>EAN</Type><Value>9317385109381</Value></StandardProductID><DescriptionData><Title>36mm Green Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\26
+Manufacturer: Groves
+Colour: green
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>92</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_28</SKU><StandardProductID><Type>EAN</Type><Value>9317385109442</Value></StandardProductID><DescriptionData><Title>36mm Royal Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\28
+Manufacturer: Groves
+Colour: royal blue
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>93</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_30</SKU><StandardProductID><Type>EAN</Type><Value>9317385106144</Value></StandardProductID><DescriptionData><Title>36mm Black Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\30
+Manufacturer: Groves
+Colour: black
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>94</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_470</SKU><StandardProductID><Type>EAN</Type><Value>9317385273198</Value></StandardProductID><DescriptionData><Title>36mm Purple Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\470
+Manufacturer: Groves
+Colour: purple
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>95</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_525</SKU><StandardProductID><Type>EAN</Type><Value>9317385106205</Value></StandardProductID><DescriptionData><Title>36mm Navy Blue Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\525
+Manufacturer: Groves
+Colour: navy blue
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>96</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_65</SKU><StandardProductID><Type>EAN</Type><Value>9317385163284</Value></StandardProductID><DescriptionData><Title>36mm Harvest Yellow Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\65
+Manufacturer: Groves
+Colour: harvest yellow
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>97</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_81</SKU><StandardProductID><Type>EAN</Type><Value>9317385109022</Value></StandardProductID><DescriptionData><Title>36mm Gold Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\81
+Manufacturer: Groves
+Colour: gold
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>98</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_810</SKU><StandardProductID><Type>EAN</Type><Value>9317385273143</Value></StandardProductID><DescriptionData><Title>36mm Ivory Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\810
+Manufacturer: Groves
+Colour: ivory
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>99</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_R10136_83</SKU><StandardProductID><Type>EAN</Type><Value>9317385109046</Value></StandardProductID><DescriptionData><Title>36mm Wine Double Satin</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m Reel of double satin ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: R10136\83
+Manufacturer: Groves
+Colour: wine
+Width: 36mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.08</PackageWeight><ShippingWeight unitOfMeasure="KG">0.08</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>100</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR10_143</SKU><StandardProductID><Type>EAN</Type><Value>5029784694828</Value></StandardProductID><DescriptionData><Title>10mm Hearts Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of hearts patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR10.143
+Manufacturer: Groves
+Colour: red
+Width: 10mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>101</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR10_148</SKU><StandardProductID><Type>EAN</Type><Value>5029784694835</Value></StandardProductID><DescriptionData><Title>10mm Made With Love Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of made with love patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR10.148
+Manufacturer: Groves
+Colour: red
+Width: 10mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>102</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR10_149</SKU><StandardProductID><Type>EAN</Type><Value>5029784694842</Value></StandardProductID><DescriptionData><Title>10mm With Love Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of with love patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR10.149
+Manufacturer: Groves
+Colour: red
+Width: 10mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message><Message><MessageID>103</MessageID><OperationType>Update</OperationType><Product><SKU>HDGB_VR10_499</SKU><StandardProductID><Type>EAN</Type><Value>5029784694866</Value></StandardProductID><DescriptionData><Title>10mm Pink Pin Spots Grosgrain Ribbon 5m Reel</Title><Brand>Bowtique</Brand><Description><![CDATA[A 5m reel of pink pin spots patterned grosgrain ribbon.  This is sold as a complete reel.
+
+Manufacturers Codes: VR10.499
+Manufacturer: Groves
+Colour: pink
+Width: 10mm
+Length: 5m
+
+This is available to buy from our online haberdashery shop.]]></Description><PackageWeight unitOfMeasure="KG">0.05</PackageWeight><ShippingWeight unitOfMeasure="KG">0.05</ShippingWeight><Manufacturer>Bowtique</Manufacturer><RecommendedBrowseNode>376320011</RecommendedBrowseNode></DescriptionData><ProductData><Miscellaneous><ProductType>Hobbies</ProductType></Miscellaneous></ProductData></Product></Message></AmazonEnvelope>

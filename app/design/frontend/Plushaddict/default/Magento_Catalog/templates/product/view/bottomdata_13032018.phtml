@@ -1,0 +1,406 @@
+<?php $_product = $block->getProduct(); ?>
+
+<div class="description" itemprop="description">
+ <h2>Product Description</h2>
+ <?php echo nl2br($_product->getDescription()); ?>
+</div>
+
+<?php $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+$attributeSet = $objectManager->create('Magento\Eav\Api\AttributeSetRepositoryInterface');
+$attributeSetRepository = $attributeSet->get($_product->getAttributeSetId());
+$attribute_set_name = $attributeSetRepository->getAttributeSetName();
+if($attribute_set_name=='Upholstery'): ?>
+
+<div class="curtain_calculate" itemprop="curtain calculate">
+  <h2>Curtain Calculator</h2>
+  <p>Enter your rail, pole or pelmet width, together with the fullness required (click info buttons for more details). If you desire more/less fullness, simply increase/decrease the fullness required until you achieve the amount of fullness you prefer.</p>
+  <p>
+    <label>Fabric Width:</label>
+    <?php if ($_product->getFabricWidth()){ ?> 
+      <input id="width" type="text" class="form-control" title="Fabric Width" value="<?php preg_match_all('!\d+!', $_product->getFabricWidth(), $matches); foreach($matches as $each){ foreach($each as $key=>$value){ echo $value; } } ?>"> 
+    <?php }else{ ?> 
+      <input id="width" type="text" class="form-control" title="Fabric Width" value="0.00"> 
+    <?php } ?>
+    <em>(in cm)</em>
+  </p>
+  <p>
+    <label for="qty">Pattern Repeat:</label>
+    <?php if ($_product->getPatternRepeat()){ ?>
+      <input id="repeat" type="text" class="form-control" title="Pattern Repeat" value="<?php preg_match_all('!\d+!', $_product->getPatternRepeat(), $matches); foreach($matches as $each){ foreach($each as $key=>$value){ echo $value; } } ?>"> 
+    <?php }else{ ?> 
+      <input id="repeat" type="text" class="form-control" title="Pattern Repeat" value="0.00"> 
+    <?php } ?>
+  </p>
+  <p>
+    <label for="qty">Pole Length:</label>
+    <input id="length" type="text" class="form-control" title="Pole Length" value="0.00"> 
+    <em>(in cm)</em>
+  </p>
+  <p>
+    <label for="qty">Drop Required: <br /><i>(how long the curtains are)</i></label>
+    <input id="drop" type="text" class="form-control" title="Drop Required" value="0.00"> 
+    <em>(in cm)</em>
+  </p>
+  <p>
+    <label for="qty">Fullness Required:</label>
+    <select id="fullness" class="form-control">
+      <option value="1">1x</option>
+      <option value="2">2x</option>
+      <option value="2.5">2.5x</option>
+      <option value="3">3x</option>
+    </select>
+  </p>
+  <p><label>&nbsp;</label><button id="check" onclick="cal()" class="btn submit" title="Calculate" type="button">Calculate</button></p>
+  <label id="res" style="display:none"></label>
+  <script>
+    function cal(){
+      var width=document.getElementById('width').value;
+      var repeat=document.getElementById('repeat').value;
+      var leng=document.getElementById('length').value;
+      var fullness=document.getElementById('drop').value;
+      var e = document.getElementById("fullness");
+      var strUser = e.options[e.selectedIndex].value;
+      var no1=leng*strUser;
+      var hem=25;
+      no=Math.round(no1/width);
+      if(strUser == 1){
+        if(parseInt(leng) >parseInt(width)){
+          var twice = parseInt(width)*2;
+          var thrice = parseInt(width)*3;
+          var forth= parseInt(width)*4;
+          if(parseInt(leng) <= parseInt(twice)){
+            no=2;
+          }else if(parseInt(leng) >parseInt(twice) && parseInt(leng) <= parseInt(thrice)){
+            no=3;
+          }else if(parseInt(leng) >parseInt(thrice) && parseInt(leng) <= parseInt(forth)){
+            no=4;
+          }
+        }
+      }
+      var cutDrop = hem+ parseInt(fullness);
+      var tempTol =cutDrop*no;
+      var tempno = parseInt(no)-1;
+      var tempRes = tempno*repeat;
+      var tol =tempTol + tempRes;
+      document.getElementById("res").innerHTML =tol+" cm";
+      document.getElementById("res").style.display ="block";
+    }
+  </script>
+</div>
+
+<?php endif; ?>
+
+<?php $attributes = $_product->getAttributes(); ?>
+<div class="information" itemprop="information">
+ <h2>Information</h2>
+ <div class="table-responsive">
+   <table>
+      <?php foreach ($attributes as $attribute): 
+        if($attribute->getFrontendInput()=='select'){
+          if($attribute->getIsVisibleOnFront()==1 && $_product->getData($attribute->getAttributeCode())){
+           $optionId = $_product->getData($attribute->getAttributeCode());   
+           $attr = $_product->getResource()->getAttribute($attribute->getAttributeCode());
+           if ($attr->usesSource()) {
+              $optionText = $attr->getSource()->getOptionText($optionId);
+           } ?>
+           <tr>
+             <td><?php echo $attribute->getFrontendLabel(); ?></td>
+             <td><?php echo $optionText; ?></td>
+           </tr>
+        <?php } }else{
+        if($attribute->getIsVisibleOnFront()==1 && $_product->getData($attribute->getAttributeCode())){ ?>
+           <tr>
+             <td><?php echo $attribute->getFrontendLabel(); ?></td>
+             <td><?php echo $_product->getData($attribute->getAttributeCode()); ?></td>
+           </tr>
+        <?php } }
+      endforeach; ?>
+   </table>
+ </div>
+</div>
+<div class="convertor" itemprop="convertor">
+<p class="patten_info_section">Use our handy convertor to help you work out your fabric measurements.</p>
+<div class="length-converter"><div class="order-sample">    
+<div class="side">
+    <label for="loge">Convert</label>
+    <input name="measurement" value="1" size="4" id="sizemeasure" type="text">
+</div>
+<div class="lengthconveter">
+    <select id="convertfrom" onchange="change()" name="length-converter">
+    <option value="mm">mm</option>
+    <option value="cm">cm</option>
+    <option value="meter">metre</option>
+    <option value="inch">inch</option>
+       <option value="yards" selected="selected">yards</option>
+    </select>
+
+    <lable id="and" style="visibility:visible">And</lable>
+
+  <select id="rest" onchange="BoxDis()" style="visibility:visible" name="rest">
+      <option value="0">Please Select</option>
+      <option value="0.125">1/8</option>
+      <option value="0.25">1/4</option>
+      <option value="0.375">3/8</option>
+      <option value="0.5">1/2</option>
+      <option value="0.625">5/8</option>
+      <option value="0.75">3/4</option>
+  </select>
+</div>  
+<button class="button btn-cal" id="convertbutton" title="Convert" type="button"><span>Convert</span></button>
+</div>
+<div class="convertable">
+<table width="100%" border="1">
+  <tbody>
+    <tr>
+      <th class="convertborder">MM</th>
+      <th class="convertborder">CM</th>
+      <th class="convertborder">Metre</th> 
+      <th class="convertborder">Inch</th>
+
+      <th class="convertborder">Yards</th>
+    </tr>
+    <tr>
+      <td class="convertborder" id="mm" align="center">910.00</td>
+      <td class="convertborder" id="cm" align="center">91.44</td>
+      <td class="convertborder" id="meter" align="center">0.91</td>
+      <td class="convertborder" id="inch" align="center">36.00</td>
+
+      <td class="convertborder" id="yards" align="center">1.00</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="postage" class="postage" itemprop="postage">
+   <h2>Postage Information</h2>
+   <p>We make best endeavours to dispatch orders placed up until 3pm the same working day. During busy times such as during a sale or on the lead up to Christmas dispatch times might be longer.  We dispatch post every working day in the UK.</p>
+   <p>We offer a free returns service in the UK and the details can be <a href="<?php echo $this->getUrl('postage')?>"> found here.</a></p>
+</div>
+
+<script type="text/javascript">
+require(['jquery'], function($){
+
+  $("#convertbutton").click(function(e) {
+  e.preventDefault();
+  var size_value=$("#sizemeasure").val();
+  var dropvalue =$("#rest").val();
+  var mm=0;
+  var cm=0;
+  var meter=0;
+  var inch=0;
+  var feet=0;
+  var yards=0;
+  if(dropvalue == 0)
+  {
+  if(!isNaN(size_value))
+  {
+      val=parseFloat($("#sizemeasure").val());
+      switch($("#convertfrom").val()){
+        case "mm":
+       mm=val;
+       cm=val/10; 
+       cm=cm.toFixed(2);
+       meter=val/1000;
+        meter=meter.toFixed(2);
+       inch=val/(2.54*10);
+       inch=inch.toFixed(2);
+       feet=inch/12;
+       feet=feet.toFixed(2);
+       yards=feet/3;
+       yards=yards.toFixed(2);
+       //val=val*10;
+            break;
+        case "cm":
+            cm=val;
+       mm=val*10; 
+        meter=val/100;
+        meter=meter.toFixed(2);
+       inch=val*0.4;
+       inch=inch.toFixed(2);
+       feet=inch/12;
+       feet=feet.toFixed(2);
+       yards=feet/3;
+       yards=yards.toFixed(2);
+          break;
+        case "meter":
+           //val=val*100; 
+          meter=val;
+       mm=val*1000;
+      
+       cm=val*100;    
+       //cm=cm.toFixed(2);
+        meter=meter.toFixed(2);
+       inch=meter*39.37;
+       inch=inch.toFixed(2);
+       feet=val*3.28;
+       feet=feet.toFixed(2);
+       yards=feet/3;
+       yards=yards.toFixed(2);
+           break;
+        case "inch":
+            //val=val*2.54;
+          inch=val;
+        mm=val/0.04;
+         mm=mm.toFixed(2);
+        cm=val*2.54;  
+       cm=cm.toFixed(2);
+        meter=val/39.37;
+        meter=meter.toFixed(2);
+        inch=inch.toFixed(2);
+       feet=inch/12;
+       feet=feet.toFixed(2);
+       yards=feet/3;
+       yards=yards.toFixed(2);
+            break;
+        
+        case "yards":
+             // val=val*91.44;
+          yards=val;
+       
+        meter=val/1.093;
+         meter1=val/1.093;
+        meter=meter.toFixed(2);
+        mm=meter*1000;
+       cm=val*91.44;
+       mm=mm.toFixed(2);
+         cm=cm.toFixed(2);
+       inch=val*36.00;
+       inch=inch.toFixed(2);
+       feet=val*3;
+       feet=feet.toFixed(2);
+       
+       yards=yards.toFixed(2);
+             break;
+      }
+
+   $("#mm").html(mm);
+   $("#cm").html(cm);
+   $("#meter").html(meter);
+   $("#inch").html(inch);
+   $("#yards").html(yards);
+  }
+  else
+   {
+
+  alert("Please Enter Number Only!!");
+  return false;
+
+       }
+   }else{
+       //val=parseFloat(jQuery("#sizemeasure").val());
+       val=parseFloat(dropvalue)+parseFloat($("#sizemeasure").val());
+      switch($("#convertfrom").val()){
+        case "mm":
+       mm=val;
+       cm=val/10; 
+       cm=cm.toFixed(2);
+       meter=val/1000;
+        meter=meter.toFixed(2);
+       inch=val/(2.54*10);
+       inch=inch.toFixed(2);
+       feet=inch/12;
+       feet=feet.toFixed(2);
+       yards=feet/3;
+       yards=yards.toFixed(2);
+       //val=val*10;
+            break;
+        case "cm":
+            cm=val;
+       mm=val*10; 
+        meter=val/100;
+        meter=meter.toFixed(2);
+       inch=val*0.4;
+       inch=inch.toFixed(2);
+       feet=inch/12;
+       feet=feet.toFixed(2);
+       yards=feet/3;
+       yards=yards.toFixed(2);
+          break;
+        case "meter":
+           //val=val*100; 
+          meter=val;
+       mm=val*1000;
+      
+       cm=val*100;    
+       //cm=cm.toFixed(2);
+        meter=meter.toFixed(2);
+       inch=meter*39.37;
+       inch=inch.toFixed(2);
+       feet=val*3.28;
+       feet=feet.toFixed(2);
+       yards=feet/3;
+       yards=yards.toFixed(2);
+           break;
+        case "inch":
+            //val=val*2.54;
+          inch=val;
+        mm=val/0.04;
+         mm=mm.toFixed(2);
+        cm=val*2.54;  
+       cm=cm.toFixed(2);
+        meter=val/39.37;
+        meter=meter.toFixed(2);
+        inch=inch.toFixed(2);
+       feet=inch/12;
+       feet=feet.toFixed(2);
+       yards=feet/3;
+       yards=yards.toFixed(2);
+            break;
+      
+        case "yards":
+             // val=val*91.44;
+          yards=val;
+       
+        meter=val/1.093;
+         meter1 = val/1.093;
+        meter=meter.toFixed(2);
+        mm=meter*1000;
+       cm=meter1*100;
+       mm=mm.toFixed(2);
+         cm=cm.toFixed(2);
+       inch=val*36.00;
+       inch=inch.toFixed(2);
+       //feet=val*3;
+       //feet=feet.toFixed(2);
+       
+       yards=yards.toFixed(2);
+             break;
+      }
+
+   $("#mm").html(mm);
+   $("#cm").html(cm);
+   $("#meter").html(meter);
+   $("#inch").html(inch);
+   //jQuery("#feet").html(feet);
+   $("#yards").html(yards);
+   }
+  //jQuery("#unittable").load('/ajax/unitconverter.php',{ 'size':jQuery("#sizemeasure").val(), 'unit':jQuery("#convertfrom").val() });
+  });
+});
+function BoxDis(){
+        var Dropselected = document.getElementById("rest");
+        var dropvalue = Dropselected.options[Dropselected.selectedIndex].value;
+        /*if(dropvalue == 0){
+            document.getElementById("sizemeasure").disabled = false;
+        }else{
+        document.getElementById("sizemeasure").disabled = true;
+    }*/
+    }
+function change(){
+        var Dropselected = document.getElementById("convertfrom");
+        var dropvalue = Dropselected.options[Dropselected.selectedIndex].value;
+        if(dropvalue == "inch" || dropvalue == "yards"){
+            document.getElementById("rest").style.visibility = "visible";
+            document.getElementById("and").style.visibility = "visible";
+        }else{
+            document.getElementById("rest").style.visibility = "hidden";
+            document.getElementById("and").style.visibility = "hidden";
+            document.getElementById("rest").value = 0;
+            //document.getElementById("sizemeasure").disabled = false;
+        }
+    }
+</script>
+<style type="text/css">
+  .lengthconveter select{border: 1px solid #e3e3e3; padding: 7px 10px;}
+</style>

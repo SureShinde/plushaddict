@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+	<menu>
+		<add id="Dapl::top_level" module="Dapl_Offer" resource="Magento_Backend::content" sortOrder="11" title="Black Friday "/>
+		<add id="Dapl::dapl_offer" module="Dapl_Offer" parent="Dapl::top_level" resource="Magento_Backend::content" sortOrder="1" title="Offer"/>
+		<add action="offer/offer/index" id="Dapl::offer" module="Dapl_Offer" parent="Dapl::dapl_offer" resource="Magento_Backend::content" sortOrder="1" title="Offer"/>
+	</menu>
+</config>

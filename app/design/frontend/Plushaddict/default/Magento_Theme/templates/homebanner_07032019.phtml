@@ -1,0 +1,23 @@
+<?php
+$collection = $block->getBannerCollection();
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+$mediaPath=$objectManager->get('Magento\Store\Model\StoreManagerInterface')
+                    ->getStore()
+                    ->getBaseUrl(\Magento\Framework\UrlInterface::URL_TYPE_MEDIA);                  
+?>
+<?php if($collection->count()>0): ?>
+    <div class="<?php if($collection->count()>1){echo 'owl-carousel';}?>">
+        <?php foreach($collection as $banner): ?>
+            <?php $imageUrl=$mediaPath.$banner->getImage();?>
+            <div class="item">
+                <a style="display: block" href="<?php echo $banner->getUrl() ?>">
+                    <img class="img-responsive" src="<?php echo $imageUrl ?>" alt="<?php echo $banner->getTitle() ?>">
+                    <?php /*<span class="info">
+                        <h2 class="title_panel"><?php echo $banner->getTitle() ?></h2>
+                         <a href="<?php echo $banner->getUrl() ?>" class="button button_tran">Shop Now</a>
+                    </span> */ ?>
+                </a>
+            </div>
+        <?php endforeach; ?> 
+    </div>
+<?php endif; ?>

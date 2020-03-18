@@ -1,0 +1,21 @@
+{
+    "name": "dapl/stockcontrol",
+    "description": "manage stock for cut fabric",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "prasanta$digitalaptech.com",
+            "name": "prasanta"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DAPL\\StockControl\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

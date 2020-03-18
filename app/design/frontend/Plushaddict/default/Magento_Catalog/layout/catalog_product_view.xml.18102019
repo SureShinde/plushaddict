@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page layout="1column" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+    	<referenceBlock name="product.info.review" remove="true" />
+    	<referenceBlock name="product.info.stock.sku" remove="true" />
+        <referenceBlock name="view.addto.compare" remove="true" />
+        <referenceBlock name="product.info.social" remove="true" />
+        <referenceBlock name="product.info.details" remove="true" />
+        <referenceContainer name="product.info.main">
+        	<block class="Magento\Catalog\Block\Product\View" name="product.info.alldata" template="product/view/alldata.phtml" before="product.info.price" />
+            <block class="Magento\Catalog\Block\Product\View" name="product.info.bottomdata" template="product/view/bottomdata.phtml" after="product.info.addtocart" />
+        </referenceContainer>
+        <move element="catalog.product.related" destination="product.info.media" after="-" />
+        <referenceContainer name="product.info.media">
+            <block class="Magento\Cms\Block\Block" name="productview-postage-link" before="catalog.product.related">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">productview-postage-link</argument>
+                </arguments>
+            </block>
+        </referenceContainer>	       
+        <referenceContainer name="content.aside" remove="true" />
+        <referenceContainer name="content">
+            <block class="Magento\Reports\Block\Product\Widget\Viewed" name="recently_viewed" cacheable="false" template="Magento_Reports::widget/viewed/content/viewed_grid.phtml" after="-">
+            </block>
+            <block class="Magento\Cms\Block\Block" name="product-footer-top" after="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">product-footer-top</argument>
+                </arguments>
+            </block>
+        </referenceContainer> 
+    </body>
+</page>

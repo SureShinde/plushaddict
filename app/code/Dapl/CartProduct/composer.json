@@ -1,0 +1,21 @@
+{
+    "name": "dapl/cartproduct",
+    "description": "Admin can manage tasks from the same page. ",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "",
+            "name": "Dapl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dapl\\CartProduct\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

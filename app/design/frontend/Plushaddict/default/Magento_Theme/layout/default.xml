@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+	<body>
+		<move element="currency" destination="header.panel" after="-"/>
+        <referenceBlock name="logo">
+            <action method="unsLogoImgWidth" />
+            <action method="unsLogoImgHeight" />
+        </referenceBlock>
+		<referenceBlock name="skip_to_content" remove="true" />
+        <referenceBlock name="header.links" remove="true" />
+        <move element="header.panel" destination="header-wrapper"/>
+		<referenceContainer name="header.panel">
+		    <block class="Magento\Cms\Block\Block" name="header-contact" before="-">
+				<arguments>
+					<argument name="block_id" xsi:type="string">header-contact</argument>
+				</arguments>
+			</block>
+		</referenceContainer>				
+        <referenceContainer name="footer">
+            <referenceBlock name="footer_links" remove="true" />
+            <referenceBlock name="report.bugs" remove="true" />
+            <block class="Magento\Cms\Block\Block" name="footer-links" after="-">
+                <arguments>
+                    <argument name="block_id" xsi:type="string">footer-links</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+        <container name="footer-bottom" label="Footer Bottom" as="footer-bottom" htmlTag="div" htmlClass="footer_bottom" after="footer">
+            <container  name="footer-bottom-content" label="Footer Bottom Content" as="footer-bottom-content" htmlTag="div" htmlClass="footer content">
+                <block class="Magento\Cms\Block\Block" name="footer-social" after="-">
+                    <arguments>
+                        <argument name="block_id" xsi:type="string">footer-social</argument>
+                    </arguments>
+                </block>
+            </container>
+        </container>
+	</body>
+    <move element="form.subscribe" destination="newsletter-panel" as="newsletter-in-panel"/>
+    <move element="copyright" destination="footer-bottom-content" as="copyright-in-bottom"/>
+    <move element="footer-bottom" destination="footer-container" as="footer-bottom" after="footer"/>
+</page>

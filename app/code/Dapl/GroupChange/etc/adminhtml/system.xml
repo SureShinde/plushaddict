@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2019 Digital Aptech PVT. LTD. All rights reserved.
+ */
+-->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="dapl" translate="label" sortOrder="40">
+            <label><![CDATA[<img src="https://www.digitalaptech.com/marketplace/images/logo.png" width="150px"/>]]></label>
+        </tab>
+        <section id="group" translate="label"  sortOrder="200"  showInDefault="1" showInWebsite="1" showInStore="1">
+            <class>group-change</class>
+            <label>Group Change</label>
+            <tab>dapl</tab>
+            <resource>Dapl_GroupChange::groupchange_config</resource>
+            <group id="general" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="0" showInStore="1">
+                <label>General Configuration</label>
+                <field id="enable" translate="label" type="select" sortOrder="5" showInDefault="1" showInWebsite="0" showInStore="1">
+                    <label>Enable</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+                <field id="from_group" translate="label" type="select" sortOrder="10" showInDefault="1" showInStore="1" showInWebsite="1">
+                    <label>Change Customer Groups From</label>
+                    <depends>
+                        <field id="group/general/enable">1</field>
+                    </depends>
+                    <source_model>Magento\Customer\Model\Customer\Source\Group</source_model>
+                </field>
+                <field id="to_group" translate="label" type="select" sortOrder="40" showInDefault="1" showInStore="1" showInWebsite="1">
+                    <label>Change Customer Groups To</label>
+                    <depends>
+                        <field id="group/general/enable">1</field>
+                    </depends>
+                    <source_model>Magento\Customer\Model\Customer\Source\Group</source_model>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

@@ -1,0 +1,60 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+?>
+<?php
+/** @var $block \Magento\Framework\View\Element\Template */
+/** @var $helper \Magento\Search\Helper\Data */
+$helper = $this->helper(\Magento\Search\Helper\Data::class);
+?>
+<div class="block custom-free-delivery">
+  <a href="<?php echo $this->getUrl().'postage'; ?>">
+    <img src="<?php echo $this->getUrl('pub/media/wysiwyg').'free-delivery.png'; ?>" title="Free UK postage on orders over £40" alt="Free UK postage on orders over £40">
+  </a>
+</div>
+
+<div class="block block-search">
+    <div class="block block-title"><strong><?= /* @escapeNotVerified */ __('Search') ?></strong></div>
+    <div class="block block-content">
+        <form class="form minisearch" id="search_mini_form" action="<?= /* @escapeNotVerified */ $helper->getResultUrl() ?>" method="get">
+            <div class="field search">
+                <label class="label" for="search" data-role="minisearch-label">
+                    <span><?= /* @escapeNotVerified */ __('Search') ?></span>
+                </label>
+                <div class="control">
+                    <input id="search"
+                           type="text"
+                           name="<?= /* @escapeNotVerified */ $helper->getQueryParamName() ?>"
+                           value="<?= /* @escapeNotVerified */ $helper->getEscapedQueryText() ?>"
+                           placeholder="<?= /* @escapeNotVerified */ __('Search entire store here...') ?>"
+                           class="input-text"
+                           maxlength="<?= /* @escapeNotVerified */ $helper->getMaxQueryLength() ?>"
+                           role="combobox"
+                           aria-haspopup="false"
+                           aria-autocomplete="both"
+                           autocomplete="off"/>
+                </div>
+            </div>
+            <div class="actions">
+                <button type="submit"
+                        title="<?= $block->escapeHtml(__('Search')) ?>"
+                        class="action search">
+                    <span><?= /* @escapeNotVerified */ __('Search') ?></span>
+                </button>
+            </div>
+        </form>
+        <a style="color:#000000;" class="custom-adv-serch" href="<?php echo $this->getBaseUrl().'catalogsearch/advanced'; ?>">
+          <div>Click Here For Advanced Search</div>
+        </a>
+        <style type="text/css">
+          .custom-free-delivery{width:130px;height:120px;padding:0 5px 0 15px;float:left;margin-bottom:0;}
+          .custom-adv-serch{width:100%;}
+          .custom-adv-serch:hover div{color:#e1325d;}
+          .custom-adv-serch div{text-align:center;margin-top:12px;/*border:2px solid #000;*/padding:4px;}
+        </style>
+    </div>
+</div>

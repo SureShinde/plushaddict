@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
+    <menu>
+        <add id="Dapreport_Wholesalereport::parent" title="Wholesaler Report" module="Dapreport_Wholesalereport" sortOrder="50" resource="Dapreport_Wholesalereport::parent"/>
+        <!--<add id="Dapreport_Wholesalereport::index" title="Wholesalereport Index" module="Dapreport_Wholesalereport" sortOrder="10" action="wholesalereport/index" resource="Dapreport_Wholesalereport::index" parent="Dapreport_Wholesalereport::parent"/>-->
+		<add id="Dapreport_Wholesalereport::wholesalereport" title="Wholesaler Report Manager" module="Dapreport_Wholesalereport" sortOrder="20" parent="Dapreport_Wholesalereport::parent" action="wholesalereport/wholesalereport" resource="Dapreport_Wholesalereport::wholesalereport"/>
+
+    </menu>
+</config>

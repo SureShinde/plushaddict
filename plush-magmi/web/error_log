@@ -1,0 +1,24 @@
+[20-Jul-2018 07:23:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in /home/plushaddictco/public_html/plush-magmi/inc/dbhelper.class.php:58
+Stack trace:
+#0 /home/plushaddictco/public_html/plush-magmi/inc/dbhelper.class.php(58): PDO->__construct('mysql:host=loca...', NULL, NULL, Array)
+#1 /home/plushaddictco/public_html/plush-magmi/inc/magmi_engine.php(518): DBHelper->initDb('localhost', 'magento', NULL, NULL, '3306', NULL, 'net', false)
+#2 /home/plushaddictco/public_html/plush-magmi/plugins/base/general/reindex/magmi_reindexing_plugin.php(35): Magmi_Engine->connectToMagento()
+#3 /home/plushaddictco/public_html/plush-magmi/plugins/base/general/reindex/magmi_reindexing_plugin.php(105): Magmi_ReindexingPlugin->initIndexList()
+#4 /home/plushaddictco/public_html/plush-magmi/plugins/base/general/reindex/options_panel.php(20): Magmi_ReindexingPlugin->getIndexList()
+#5 /home/plushaddictco/public_html/plush-magmi/plugins/inc/magmi_plugin.php(95): require('/home/plushaddi...')
+#6 / in /home/plushaddictco/public_html/plush-magmi/inc/dbhelper.class.php on line 58
+[09-Aug-2018 08:10:56 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[09-Aug-2018 08:11:16 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[09-Aug-2018 08:12:20 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[09-Aug-2018 08:12:49 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[09-Aug-2018 08:13:06 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[09-Aug-2018 08:13:42 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[19-Aug-2018 18:32:09 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[19-Aug-2018 18:33:22 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[22-Aug-2018 13:07:40 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[22-Aug-2018 13:08:38 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[22-Aug-2018 13:09:27 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[27-Aug-2018 07:39:30 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[27-Aug-2018 07:42:40 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[27-Aug-2018 07:43:44 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51
+[29-Aug-2018 19:24:00 UTC] PHP Warning:  fopen(/home/plushaddictco/public_html/var/import/Dovestone_Playtime.csv): failed to open stream: No such file or directory in /home/plushaddictco/public_html/plush-magmi/inc/magmi_csvreader.php on line 51

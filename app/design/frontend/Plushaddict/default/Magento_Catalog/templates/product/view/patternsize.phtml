@@ -1,0 +1,8 @@
+<?php $_product = $block->getProduct();?>
+<?php $attributeSetId=$_product->getAttributeSetId();?>
+<?php if ($attributeSetId == 12):?>
+<div class="pattern_size_info">
+   <h2>Pattern Size Information</h2>
+      <?php echo $_product->getPatternSizeInfo();?>
+ </div>
+ <?php endif; ?>

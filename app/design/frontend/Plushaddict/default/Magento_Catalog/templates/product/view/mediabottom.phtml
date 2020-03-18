@@ -1,0 +1,18 @@
+<?php $_product = $block->getProduct();
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+$attributeSet = $objectManager->create('Magento\Eav\Api\AttributeSetRepositoryInterface');
+$attributeSetRepository = $attributeSet->get($_product->getAttributeSetId());
+$attribute_set_name = $attributeSetRepository->getAttributeSetName();
+if($attribute_set_name=='Patterns'): 
+	if($_product->getPatternSizeInfo()): ?>
+
+<div class="pattern_size_info">
+    <h2>Pattern Size Information</h2>
+    <div class="table-responsive pattern_table_info">
+		<?php echo $_product->getPatternSizeInfo(); ?>
+	</div>
+</div>
+
+<?php
+	endif;
+endif; ?>

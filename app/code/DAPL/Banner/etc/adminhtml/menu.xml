@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 DAPL. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Backend/etc/menu.xsd">
+    <menu>
+        <add id="DAPL_Banner::dapl_banner_index" title="Banner" module="DAPL_Banner"  sortOrder="20" dependsOnModule="DAPL_Banner" action="banner/banner/index" resource="DAPL_Banner::dapl_banner_index"/>
+<!--AddMenu-->
+    </menu>
+</config>

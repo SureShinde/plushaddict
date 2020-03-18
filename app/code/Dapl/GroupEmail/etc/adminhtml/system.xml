@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2019 Digital Aptech PVT. LTD. All rights reserved.
+ */
+-->
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="dapl" translate="label" sortOrder="40">
+            <label>digitalaptech.com</label>
+        </tab>
+        <section id="order" translate="label"  sortOrder="100"  showInDefault="1" showInWebsite="1" showInStore="1">
+            <class>group-email</class>
+            <label>Email per Customer Groups</label>
+            <tab>dapl</tab>
+            <resource>Dapl_GroupEmail::groupemail_config</resource>
+            <group id="general" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="0" showInStore="1">
+                <label>General Configuration</label>
+                <field id="enable" translate="label" type="select" sortOrder="5" showInDefault="1" showInWebsite="0" showInStore="1">
+                    <label>Enable</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+                <field id="order_groups" translate="label" type="multiselect" sortOrder="10" showInDefault="1" showInStore="1" showInWebsite="1">
+                    <label>Disable Order Email for Customer Groups</label>
+                    <depends>
+                        <field id="order/general/enable">1</field>
+                    </depends>
+                    <source_model>Magento\Customer\Model\Customer\Source\Group</source_model>
+                    <comment>Please choose customer groups for which you want to disable Order confirmation email.</comment>
+                </field>
+                <field id="shipment_groups" translate="label" type="multiselect" sortOrder="20" showInDefault="1" showInStore="1" showInWebsite="1">
+                    <label>Disable Shipment Email for Customer Groups</label>
+                    <depends>
+                        <field id="order/general/enable">1</field>
+                    </depends>
+                    <source_model>Magento\Customer\Model\Customer\Source\Group</source_model>
+                    <comment>Please choose customer groups for which you want to disable Shipment email.</comment>
+                </field>
+                <field id="invoice_groups" translate="label" type="multiselect" sortOrder="30" showInDefault="1" showInStore="1" showInWebsite="1">
+                    <label>Disable Invoice Email for Customer Groups</label>
+                    <depends>
+                        <field id="order/general/enable">1</field>
+                    </depends>
+                    <source_model>Magento\Customer\Model\Customer\Source\Group</source_model>
+                    <comment>Please choose customer groups for which you want to disable Invoice email.</comment>
+                </field>
+                <field id="creditmemo_groups" translate="label" type="multiselect" sortOrder="40" showInDefault="1" showInStore="1" showInWebsite="1">
+                    <label>Disable Credit Memo Email for Customer Groups</label>
+                    <depends>
+                        <field id="order/general/enable">1</field>
+                    </depends>
+                    <source_model>Magento\Customer\Model\Customer\Source\Group</source_model>
+                    <comment>Please choose customer groups for which you want to disable Credit Memo email.</comment>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

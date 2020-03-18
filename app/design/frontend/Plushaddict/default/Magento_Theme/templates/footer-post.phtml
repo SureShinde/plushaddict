@@ -1,0 +1,38 @@
+<?php
+$helper = $this->helper('Dapl\Custom\Helper\Data');
+$ListPost = $helper->getObjectMan()->create('FishPig\WordPress\Block\Post\ListPost');
+
+//echo '<pre>'; print_r(get_class_methods($ListPost)); echo '</pre>';
+$posts = $ListPost->getLimitedPosts($block->getData('post_count'));
+//echo '<pre>'; print_r(get_class_methods($posts)); echo '</pre>';
+$storeManager = $helper->getObjectMan()->create('\Magento\Store\Model\StoreManagerInterface');
+$store_url = $storeManager->getStore()->getBaseUrl(\Magento\Framework\UrlInterface::URL_TYPE_WEB);
+?>
+
+<a href="<?php echo $store_url; ?>news/"><h3>Latest News</h3></a>
+<ul class="footer links post">
+    <?php foreach($posts as $post):
+    $content = $post->getContent();
+    $stringcontent = strip_tags($content);
+    $strlength=strlen($stringcontent);
+    ?>
+        <li class="nav item">
+            <a href="<?php echo $post->getUrl(); ?>">
+            <?php if($strlength<70): ?>
+                <strong><?php echo $post->getName(); ?></strong>
+                <?php  echo $stringcontent; ?>
+            <?php else: ?>
+                <strong><?php echo $post->getName(); ?></strong>
+                <?php echo substr(ltrim($stringcontent, ' '),0,66).'...'; ?>
+            <?php endif; ?>   
+            </a>
+        </li>
+    <?php endforeach; ?>
+</ul>
+<style>
+    .footer.links.post {
+        overflow-y: scroll;
+        height: 190px;
+    }
+    
+</style>

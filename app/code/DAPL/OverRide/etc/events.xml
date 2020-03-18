@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <event name="pos_order_before_submit">
+        <observer name="PosOrderDecimalQuantityUpdate" instance="DAPL\OverRide\Observer\PosOrderDecimalQuantityUpdate" />
+    </event>
+</config>

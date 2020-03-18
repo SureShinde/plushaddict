@@ -1,0 +1,8 @@
+<?php
+ $order = $block->getOrder();
+?>
+
+<!-- Event snippet for purchased conversion page --> 
+<script> 
+  gtag('event', 'conversion', { 'send_to': 'AW-1000050378/oRN1COTasZcBEMqd7twD', 'value': '<?php echo $order->getSubtotal(); ?>', 'currency': '<?php echo $order->getStoreCurrencyCode(); ?>', 'transaction_id': '<?php echo $order->getId(); ?>' }); 
+</script>

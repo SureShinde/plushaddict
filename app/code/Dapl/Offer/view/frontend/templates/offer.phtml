@@ -1,0 +1,62 @@
+<?php $offers = $block->getmyCollection();?>
+<ul>
+<?php
+ if($offers && $offers->getSize() > 0){?>
+  <?php foreach($offers as $data):?>
+            
+ <li> 
+    <div class="left_part">
+        <a class="product-image">
+            <img src="<?php echo $block->getUrl("pub/media/").$data->getImagePath(); ?>"/>
+        </a> 
+    </div>
+    <div class="right_part">
+        <h2 class="product-name"><?= $data->getTitle();?></h2>
+        <p class="product-info"><?= $data->getDescription();?></p>
+        <p class="product-price">
+        <span class="price-label"></span> <span class="regular-price"> <span class="price notranslate"><?= $data->getCaption();?></span> </span>  
+        </p>
+        <div class="action">
+        <button class="button btn-cart btn-view" type="button" title="View" onclick="location.href='<?= $data->getUrl();?>'">  
+        <span><i class="fa fa-eye"></i>View</span>
+        </button>
+        </div> 
+    </div>
+</li>
+ <?php endforeach; ?>
+
+    <?php }else{?>
+   <li class="no_offer"> <p>No offer available.</p></li>
+<?php
+ }
+
+ ?>
+
+</ul>
+</div>
+
+<style>
+    .special-offer-block-main > ul { margin: 0; padding: 0; display: flex; flex-flow: row wrap; }
+    .special-offer-block-main > ul > li { display: flex; border: 1px solid #cecccc; width: 49%; list-style: none; margin: 15px 2% 15px 0; padding: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.1); }
+    .special-offer-block-main > ul > li:nth-child(2n+2) { margin-right: 0; }
+    .special-offer-block-main .left_part { width: 50%; }
+    .special-offer-block-main .right_part { width: 50%; padding: 0 0 0 15px; }
+    
+    .special-offer-block-main p:empty { display: none; }
+    .special-offer-block-main .product-image { display: block; }
+    .special-offer-block-main .product-image img { display: block; }
+    .special-offer-block-main .product-name { color: #000; line-height: 28px; font-size: 24px; font-weight: 600; margin: 0 0 15px; }
+    .special-offer-block-main p { color: #616161; font-size: 14px; line-height: 18px; }
+    .special-offer-block-main .product-price { color: #e1325d; font-weight: 700; font-size: 18px; line-height: 22px; }
+    
+    .special-offer-block-main .btn-cart { background: #000; border: none; border-radius: 0px; color: #fff; outline: none; font-size: 14px; line-height: 20px; text-transform: uppercase; padding: 8px 15px; box-shadow: none; }
+    .special-offer-block-main .btn-cart i { vertical-align: top; line-height: 20px; margin-right: 5px; }
+    .special-offer-block-main .btn-cart:hover { background: #e1325d; }
+    .special-offer-block-main .no_offer p{color: #e1325d;font-size: 26px;line-height: 18px;text-align: center;width: 100%;}
+    .special-offer-block-main > ul > li.no_offer{display: flex; border: none;width: 100%;list-style: none;margin: 15px 2% 15px 0;padding: 15px;box-shadow: none;}
+    
+    @media only screen and (max-width: 1023px) {
+    	.special-offer-block-main > ul > li { width: 100%; margin: 0 0 20px; }
+    	.special-offer-block-main > ul > li:last-child { margin: 0; }
+    }
+</style>

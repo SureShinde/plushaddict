@@ -1,0 +1,57 @@
+<?php $_category = $this->getCurrentCategory();?>
+<?php //if($_category->getId()!=9): ?>
+    <?php $_categories = $block->getCurrentChildCategories(); ?>
+    <div class="pattern_three_panel three">
+    	<div class="patten_info"><a href="#"> Colour Match Service</a></div>
+    	<div class="patten_info"><a href="#"> Plush Points Loyalty Scheme</a></div>
+    	<div class="patten_info">Call us: 0845 519 4422</div>
+    </div>
+    
+    <?php if($_category->hasChildren()): ?>
+    	<div class="products wrapper grid products-grid category-grid">
+    		 <ol class="products list items product-items">
+    		<?php $objectManager =  \Magento\Framework\App\ObjectManager::getInstance();?>
+            <?php foreach($_category->getChildrenCategories() as $_child): ?>
+            <?php if($_child->getIsActive()): ?>
+    		    <li class="item product product-item">
+    		    <?php $cat = $objectManager->create('Magento\Catalog\Model\Category')->load($_child->getId());?>           
+    		       <div class="product-item-info" data-container="product-grid">
+    		            <?php if($cat->getImageUrl()): ?>
+    		            <a href="<?php echo $_child->getUrl() ?>" class="product photo product-item-photo" tabindex="-1">
+    			            <span class="product-image-container">
+    				            <span class="product-image-wrapper">				                
+    				                <img class="product-image-photo img-responsive" src="<?php echo $cat->getImageUrl(); ?>" alt="<?php /* @escapeNotVerified */ echo $this->helper('Magento\Catalog\Helper\Output')->categoryAttribute($_child, $_child->getName(), 'name') ?>" />		          
+    				            </span>
+    			            </span>
+    		            </a>
+    		            <?php else: ?>
+    		            	<a href="<?php echo $_child->getUrl() ?>" class="product photo product-item-photo" tabindex="-1">
+    			            <span class="product-image-container">
+    				            <span class="product-image-wrapper">				                
+    				                <img class="product-image-photo img-responsive" src="<?php echo $this->getViewFileUrl('images/picture-pending_c.png'); ?>" alt="pic">	          
+    				            </span>
+    			            </span>
+    		            </a>
+    		            <?php endif; ?>
+    		            <div class="product details product-item-details">
+    			            <strong class="product name product-item-name">
+    			                <a class="product-item-link" href="<?php echo $_child->getUrl() ?>"><?php /* @escapeNotVerified */ echo $this->helper('Magento\Catalog\Helper\Output')->categoryAttribute($_child, $_child->getName(), 'name') ?></a>
+    			            </strong>                                   
+    		            </div>
+    		       </div>
+    		    </li>
+    		<?php endif; ?>
+            <?php endforeach; ?>    	                                  
+    		</ol>
+    	</div>
+    <?php endif; ?>
+    
+    <style type="text/css">
+    	#narrow-by-list .filter-options-item {
+            display: none;
+        }
+        #narrow-by-list .filter-options-item:nth-child(1) {
+            display: block;
+        }
+    </style>
+ <?php //endif; ?>    

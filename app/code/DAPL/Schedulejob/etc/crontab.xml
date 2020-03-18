@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Cron:etc/crontab.xsd">
+	<group id="default">
+		<job instance="DAPL\Schedulejob\Cron\OrderDispatched" method="execute" name="dapl_schedulejob_orderdispatched">
+			<schedule>30 6 * * *</schedule>
+		</job>
+	</group>
+</config>

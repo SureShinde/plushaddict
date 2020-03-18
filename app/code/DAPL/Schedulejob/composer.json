@@ -1,0 +1,21 @@
+{
+    "name": "dapl/module-schedulejob",
+    "description": "",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DAPL\\Schedulejob\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+/** @var Magento\Customer\Block\Account\Customer $block */
+?>
+<?php if($block->customerLoggedIn()): ?>
+    <li class="moblink"><a href="<?php echo $block->getUrl('customer/account') ?>">Account</a></li>
+    <li class="moblink"><a href="<?php echo $block->getUrl('customer/account/logout') ?>">Logout</a></li>
+<?php else:?>
+    <li class="moblink"><a href="<?php echo $block->getUrl('customer/account/create') ?>">Register</a></li>
+    <li class="moblink"><a href="<?php echo $block->getUrl('customer/account/login') ?>">Login</a></li>
+<?php endif; ?>
+<style type="text/css">
+  li.moblink{ display: none !important;}
+  @media only screen and (max-width:767px) {
+  li.moblink{ display: block !important;}
+  }
+</style>

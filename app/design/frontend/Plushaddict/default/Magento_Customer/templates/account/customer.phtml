@@ -1,0 +1,48 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+/** @var Magento\Customer\Block\Account\Customer $block */
+?>
+<li class="custom-header-li">
+    <div class="customer-welcome custom-myaccount">
+        <span class="customer-name"
+              role="link"
+              tabindex="0"
+              data-mage-init='{"dropdown":{ "triggerEvent" : "hover"}}'
+              data-toggle="dropdown"
+              data-trigger-keypress-button="true">            
+                <span >My Account</span>
+        </span>
+        <?php if($block->getChildHtml()):?>
+        <div class="customer-menu" data-target="dropdown">
+            <ul class="dropdown">
+                 <?php if($block->customerLoggedIn()): ?>
+                  <li><a href="<?php echo $block->getUrl('customer/account') ?>">Account</a></li>
+                  <li><a href="<?php echo $block->getUrl('customer/account/logout') ?>">Logout</a></li>
+                 <?php else:?>
+                  <li><a href="<?php echo $block->getUrl('customer/account/create') ?>">Register</a></li>
+                  <li><a href="<?php echo $block->getUrl('customer/account/login') ?>">Login</a></li>
+                 <?php endif; ?>
+            </ul>
+        </div>
+        <?php endif; ?>
+    </div>
+</li>
+
+<style type="text/css">
+@media only screen and (max-width:767px) {
+  .custom-myaccount{display:none;}
+}
+@media only screen and (min-width:1050px) {
+  #search_mini_form .field.search{width:390px;}
+}
+.panel.header, .page-header .custom-header-right .switcher strong{font-weight:bold;}
+.custom-header-right{float:right;width:235px;}
+.custom-header-right .custom-header-ul{list-style:none;}
+.custom-header-right .custom-header-ul .custom-header-li{width:100%;float:left;}
+.custom-header-right .custom-header-ul .custom-header-li .minicart-wrapper, .custom-header-right .custom-header-ul .custom-header-li .custom-myaccount, .custom-header-right .custom-header-ul .custom-header-li .switcher-currency{float:right;margin-right:0px;}
+</style>
